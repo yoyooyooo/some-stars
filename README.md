@@ -13,6 +13,7 @@
 
 ## Table of Contents
 
+*   [C++](#c)
 *   [Rust](#rust)
 *   [TypeScript](#typescript)
 *   [Python](#python)
@@ -31,11 +32,18 @@
 *   [ABAP](#abap)
 *   [Shell](#shell)
 *   [Ruby](#ruby)
-*   [C++](#c)
 *   [Objective-C](#objective-c)
 *   [Vue](#vue)
 *   [CSS](#css)
 *   [CoffeeScript](#coffeescript)
+
+## C++
+
+*   [Snapchat/Valdi](https://github.com/Snapchat/Valdi) - Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity.
+
+*   [wkhtmltopdf/wkhtmltopdf](https://github.com/wkhtmltopdf/wkhtmltopdf) - Convert HTML to PDF using Webkit (QtWebKit)
+
+*   [mongodb/mongo](https://github.com/mongodb/mongo) - The MongoDB Database
 
 ## Rust
 
@@ -380,8 +388,6 @@
 *   [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 
 *   [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
-
-*   [listen1/listen1](https://github.com/listen1/listen1) - one for all free music in china (origin edition)
 
 ## JavaScript
 
@@ -856,12 +862,6 @@
 *   [JXA-Cookbook/JXA-Cookbook](https://github.com/JXA-Cookbook/JXA-Cookbook) - Cookbook for JavaScript for Automation in Mac OS X Yosemite
 
 *   [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
-
-## C++
-
-*   [wkhtmltopdf/wkhtmltopdf](https://github.com/wkhtmltopdf/wkhtmltopdf) - Convert HTML to PDF using Webkit (QtWebKit)
-
-*   [mongodb/mongo](https://github.com/mongodb/mongo) - The MongoDB Database
 
 ## Objective-C
 
