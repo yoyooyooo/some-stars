@@ -13,9 +13,9 @@
 
 ## Table of Contents
 
+*   [Rust](#rust)
 *   [TypeScript](#typescript)
 *   [C++](#c)
-*   [Rust](#rust)
 *   [Python](#python)
 *   [Kotlin](#kotlin)
 *   [Go](#go)
@@ -35,6 +35,32 @@
 *   [Objective-C](#objective-c)
 *   [Vue](#vue)
 *   [CSS](#css)
+
+## Rust
+
+*   [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
+
+*   [vicanso/pingap](https://github.com/vicanso/pingap) - A reverse proxy like nginx, built on pingora, simple and efficient.
+
+*   [ozankasikci/rust-git-worktree](https://github.com/ozankasikci/rust-git-worktree) - A cli application written in rust in order make working with git worktrees easier.
+
+*   [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
+
+*   [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) - Kanban board to manage your AI coding agents
+
+*   [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
+
+*   [tuananh/hyper-mcp](https://github.com/tuananh/hyper-mcp) - 📦️ A fast, secure MCP server that extends its capabilities through WebAssembly plugins.
+
+*   [typst/typst](https://github.com/typst/typst) - A markup-based typesetting system that is powerful and easy to learn.
+
+*   [oxc-project/oxc](https://github.com/oxc-project/oxc) - ⚓ A collection of high-performance JavaScript tools.
+
+*   [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
+
+*   [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
+
+*   [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
 
 ## TypeScript
 
@@ -327,30 +353,6 @@
 *   [wkhtmltopdf/wkhtmltopdf](https://github.com/wkhtmltopdf/wkhtmltopdf) - Convert HTML to PDF using Webkit (QtWebKit)
 
 *   [mongodb/mongo](https://github.com/mongodb/mongo) - The MongoDB Database
-
-## Rust
-
-*   [vicanso/pingap](https://github.com/vicanso/pingap) - A reverse proxy like nginx, built on pingora, simple and efficient.
-
-*   [ozankasikci/rust-git-worktree](https://github.com/ozankasikci/rust-git-worktree) - A cli application written in rust in order make working with git worktrees easier.
-
-*   [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
-
-*   [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) - Kanban board to manage your AI coding agents
-
-*   [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
-
-*   [tuananh/hyper-mcp](https://github.com/tuananh/hyper-mcp) - 📦️ A fast, secure MCP server that extends its capabilities through WebAssembly plugins.
-
-*   [typst/typst](https://github.com/typst/typst) - A markup-based typesetting system that is powerful and easy to learn.
-
-*   [oxc-project/oxc](https://github.com/oxc-project/oxc) - ⚓ A collection of high-performance JavaScript tools.
-
-*   [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
-
-*   [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
-
-*   [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
 
 ## Python
 
@@ -759,8 +761,6 @@
 *   [nswbmw/N-blog](https://github.com/nswbmw/N-blog) - 《一起学 Node.js》
 
 *   [chenglou/react-motion](https://github.com/chenglou/react-motion) - A spring that solves your animation problems.
-
-*   [sqaiyan/netmusic-node](https://github.com/sqaiyan/netmusic-node) - 网易云音乐接口
 
 ## Dart
 
