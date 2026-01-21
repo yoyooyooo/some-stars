@@ -334,6 +334,8 @@
 
 *   [ReactiveX/rxjs-tslint](https://github.com/ReactiveX/rxjs-tslint) - TSLint rules targeting RxJS
 
+*   [egeozcan/ppipe](https://github.com/egeozcan/ppipe) - pipes values through functions, an alternative to using the proposed pipe operator ( |> ) for ES
+
 *   [qinyang1980/create-react-antd-app](https://github.com/qinyang1980/create-react-antd-app) - (create react app + typescript + antd) without eject and without using Babel.
 
 *   [redux-observable/redux-observable](https://github.com/redux-observable/redux-observable) - RxJS middleware for action side effects in Redux using "Epics"
@@ -727,8 +729,6 @@
 *   [acdlite/redux-rx](https://github.com/acdlite/redux-rx) - RxJS utilities for Redux.
 
 *   [sartaj/pipe-me](https://github.com/sartaj/pipe-me) - 👜Pipeable programming for humans.
-
-*   [egeozcan/ppipe](https://github.com/egeozcan/ppipe) - pipes values through functions, an alternative to using the proposed pipe operator ( |> ) for ES
 
 *   [iamkun/dayjs](https://github.com/iamkun/dayjs) - ⏰ Day.js 2kB immutable date-time library alternative to Moment.js with the same modern API
 
