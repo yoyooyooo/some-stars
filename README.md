@@ -38,7 +38,9 @@
 
 ## TypeScript
 
-*   [moltbot/moltbot](https://github.com/moltbot/moltbot) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
+*   [lukilabs/beautiful-mermaid](https://github.com/lukilabs/beautiful-mermaid) -
+
+*   [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
 
 *   [DayuanJiang/next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io) - A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.
 
@@ -116,7 +118,7 @@
 
 *   [altair-graphql/altair](https://github.com/altair-graphql/altair) - ✨⚡️ A feature-rich GraphQL Client for all platforms.
 
-*   [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
+*   [f/prompts.chat](https://github.com/f/prompts.chat) - a.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 
 *   [egoist/tsup](https://github.com/egoist/tsup) - The simplest and fastest way to bundle your TypeScript libraries.
 
@@ -164,7 +166,7 @@
 
 *   [the1812/Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved) - 强大的哔哩哔哩增强脚本
 
-*   [maximegris/angular-electron](https://github.com/maximegris/angular-electron) - Ultra-fast bootstrapping with Angular and Electron :speedboat:
+*   [belnadris/angular-electron](https://github.com/belnadris/angular-electron) - Ultra-fast bootstrapping with Angular and Electron :speedboat:
 
 *   [slab/quill](https://github.com/slab/quill) - Quill is a modern WYSIWYG editor built for compatibility and extensibility
 
@@ -323,8 +325,6 @@
 *   [styled-components/styled-components](https://github.com/styled-components/styled-components) - Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress 💅
 
 *   [reduxjs/redux-devtools](https://github.com/reduxjs/redux-devtools) - DevTools for Redux with hot reloading, action replay, and customizable UI
-
-*   [rematch/rematch](https://github.com/rematch/rematch) - The Redux Framework
 
 ## Python
 
