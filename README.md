@@ -38,6 +38,8 @@
 
 ## TypeScript
 
+*   [badlogic/pi-mono](https://github.com/badlogic/pi-mono) - AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
+
 *   [lukilabs/beautiful-mermaid](https://github.com/lukilabs/beautiful-mermaid) -
 
 *   [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
@@ -781,8 +783,6 @@
 *   [ruanyf/webpack-demos](https://github.com/ruanyf/webpack-demos) - a collection of simple demos of Webpack
 
 *   [mirrorjs/mirror](https://github.com/mirrorjs/mirror) - A simple and powerful React framework with minimal API and zero boilerplate.
-
-*   [dvajs/dva](https://github.com/dvajs/dva) - 🌱 React and redux based, lightweight and elm-style framework. (Inspired by elm and choo)
 
 ## Dart
 
