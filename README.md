@@ -27,7 +27,6 @@
 *   [PHP](#php)
 *   [Clojure](#clojure)
 *   [Swift](#swift)
-*   [MDX](#mdx)
 *   [Less](#less)
 *   [Java](#java)
 *   [ABAP](#abap)
@@ -809,6 +808,8 @@
 
 *   [L-M-Sherlock/sm18-lazy-package](https://github.com/L-M-Sherlock/sm18-lazy-package) - SuperMemo 18 中文懒人包
 
+*   [f/prompts.chat](https://github.com/f/prompts.chat) - a.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
+
 *   [LingDong-/shan-shui-inf](https://github.com/LingDong-/shan-shui-inf) - Procedurally generated Chinese landscape painting.
 
 *   [tc39/proposal-class-fields](https://github.com/tc39/proposal-class-fields) - Orthogonally-informed combination of public and private fields proposals
@@ -834,10 +835,6 @@
 *   [PlayCover/PlayCover](https://github.com/PlayCover/PlayCover) - Community fork of PlayCover
 
 *   [shadowsocks/ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG) - Next Generation of ShadowsocksX
-
-## MDX
-
-*   [f/prompts.chat](https://github.com/f/prompts.chat) - a.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 
 ## Less
 
