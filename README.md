@@ -13,13 +13,13 @@
 
 ## Table of Contents
 
+*   [miscellaneous](#miscellaneous)
 *   [Python](#python)
 *   [TypeScript](#typescript)
 *   [Rust](#rust)
 *   [C++](#c)
 *   [Kotlin](#kotlin)
 *   [Go](#go)
-*   [miscellaneous](#miscellaneous)
 *   [JavaScript](#javascript)
 *   [Dart](#dart)
 *   [Jupyter Notebook](#jupyter-notebook)
@@ -35,6 +35,44 @@
 *   [Objective-C](#objective-c)
 *   [Vue](#vue)
 *   [CSS](#css)
+
+## miscellaneous
+
+*   [myinvestpilot/ai-architecture](https://github.com/myinvestpilot/ai-architecture) - Design notes, architecture, and trade-offs for MyInvestPilot — an AI-native investment OS built with agent-driven development, DSL engine, and solo company tech stack.
+
+*   [byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips) - An advanced guide to learn English which might benefit you a lot 🎉 .  离谱的英语学习指南/英语学习教程/英语学习/学英语
+
+*   [Loyalsoldier/clash-rules](https://github.com/Loyalsoldier/clash-rules) - 🦄️ 🎃 👻 Clash Premium 规则集(RULE-SET)，兼容 ClashX Pro、Clash for Windows 等基于 Clash Premium 内核的客户端。
+
+*   [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL
+
+*   [jgierer12/awesome-babel-macros](https://github.com/jgierer12/awesome-babel-macros) - A collection of awesome babel macros and related resources
+
+*   [programthink/books](https://github.com/programthink/books) - 【编程随想】收藏的电子书清单（多个学科，含下载链接）
+
+*   [sindresorhus/promise-fun](https://github.com/sindresorhus/promise-fun) - Promise packages, patterns, chat, and tutorials
+
+*   [xiazeyu/live2d-widget-models](https://github.com/xiazeyu/live2d-widget-models) - Model library for live2d-widget.js
+
+*   [fython/BilibiliAPIDocs](https://github.com/fython/BilibiliAPIDocs) - 哔哩哔哩开放接口第三方文档（仅提供官方曾公开接口）
+
+*   [cssmagic/CSS-Secrets](https://github.com/cssmagic/CSS-Secrets) - 📖 《CSS 揭秘》这本书的大本营。
+
+*   [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
+
+*   [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes) - :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计
+
+*   [sohamkamani/javascript-design-patterns-for-humans](https://github.com/sohamkamani/javascript-design-patterns-for-humans) - An ultra-simplified explanation of design patterns implemented in javascript
+
+*   [jaredpalmer/awesome-react-render-props](https://github.com/jaredpalmer/awesome-react-render-props) - Awesome list of React components with render props
+
+*   [ddwhan0123/Useful-Open-Source-Android](https://github.com/ddwhan0123/Useful-Open-Source-Android) - 造福大家，0广告，收集归纳
+
+*   [brillout/awesome-react-components](https://github.com/brillout/awesome-react-components) - Curated List of React Components & Libraries.
+
+*   [Binaryify/NeteaseCloudMusicApi](https://github.com/Binaryify/NeteaseCloudMusicApi) - 网易云音乐 Node.js API service
+
+*   [facebook/react-devtools](https://github.com/facebook/react-devtools) - An extension that allows inspection of React component hierarchy in the Chrome and Firefox Developer Tools.
 
 ## Python
 
@@ -376,8 +414,6 @@
 
 *   [Tencent/vConsole](https://github.com/Tencent/vConsole) - A lightweight, extendable front-end developer tool for mobile web page.
 
-*   [reduxjs/redux](https://github.com/reduxjs/redux) - A JS library for predictable global state management
-
 ## Rust
 
 *   [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
@@ -429,42 +465,6 @@
 *   [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.
 
 *   [joewalnes/websocketd](https://github.com/joewalnes/websocketd) - Turn any program that uses STDIN/STDOUT into a WebSocket server. Like inetd, but for WebSockets.
-
-## miscellaneous
-
-*   [byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips) - An advanced guide to learn English which might benefit you a lot 🎉 .  离谱的英语学习指南/英语学习教程/英语学习/学英语
-
-*   [Loyalsoldier/clash-rules](https://github.com/Loyalsoldier/clash-rules) - 🦄️ 🎃 👻 Clash Premium 规则集(RULE-SET)，兼容 ClashX Pro、Clash for Windows 等基于 Clash Premium 内核的客户端。
-
-*   [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL
-
-*   [jgierer12/awesome-babel-macros](https://github.com/jgierer12/awesome-babel-macros) - A collection of awesome babel macros and related resources
-
-*   [programthink/books](https://github.com/programthink/books) - 【编程随想】收藏的电子书清单（多个学科，含下载链接）
-
-*   [sindresorhus/promise-fun](https://github.com/sindresorhus/promise-fun) - Promise packages, patterns, chat, and tutorials
-
-*   [xiazeyu/live2d-widget-models](https://github.com/xiazeyu/live2d-widget-models) - Model library for live2d-widget.js
-
-*   [fython/BilibiliAPIDocs](https://github.com/fython/BilibiliAPIDocs) - 哔哩哔哩开放接口第三方文档（仅提供官方曾公开接口）
-
-*   [cssmagic/CSS-Secrets](https://github.com/cssmagic/CSS-Secrets) - 📖 《CSS 揭秘》这本书的大本营。
-
-*   [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
-
-*   [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes) - :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计
-
-*   [sohamkamani/javascript-design-patterns-for-humans](https://github.com/sohamkamani/javascript-design-patterns-for-humans) - An ultra-simplified explanation of design patterns implemented in javascript
-
-*   [jaredpalmer/awesome-react-render-props](https://github.com/jaredpalmer/awesome-react-render-props) - Awesome list of React components with render props
-
-*   [ddwhan0123/Useful-Open-Source-Android](https://github.com/ddwhan0123/Useful-Open-Source-Android) - 造福大家，0广告，收集归纳
-
-*   [brillout/awesome-react-components](https://github.com/brillout/awesome-react-components) - Curated List of React Components & Libraries.
-
-*   [Binaryify/NeteaseCloudMusicApi](https://github.com/Binaryify/NeteaseCloudMusicApi) - 网易云音乐 Node.js API service
-
-*   [facebook/react-devtools](https://github.com/facebook/react-devtools) - An extension that allows inspection of React component hierarchy in the Chrome and Firefox Developer Tools.
 
 ## JavaScript
 
