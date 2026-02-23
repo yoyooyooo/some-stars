@@ -49,6 +49,7 @@
 *   [Perl](#perl)
 *   [Pascal](#pascal)
 *   [PowerShell](#powershell)
+*   [Go Template](#go-template)
 *   [EJS](#ejs)
 *   [AngelScript](#angelscript)
 *   [Ruby](#ruby)
@@ -144,7 +145,7 @@
 
 *   [a55509432/pyipatool](https://github.com/a55509432/pyipatool) - 苹果商店搜索下载历史版本工具
 
-*   [YoKONCy/PeroCore](https://github.com/YoKONCy/PeroCore) - 拥有稳定长记忆的高性能 AI 桌宠，基于Python+Rust构建。这不是一个冰冷的 AI 工具，而是一个尝试赋予 AI “温度”与“灵魂”的项目
+*   [YoKONCy/PeroCore](https://github.com/YoKONCy/PeroCore) - 基于 Python+Rust+Three.js 构建的 AI 桌宠，内置高性能记忆引擎。这不是一个冰冷的工具，而是一个尝试赋予 AI “温度”与“灵魂”的项目
 
 *   [baby7/agile-tiles](https://github.com/baby7/agile-tiles) - 【灵卡面板】一款Windows侧边栏应用，打造你的自定义专属摸鱼办公面板
 
@@ -184,7 +185,7 @@
 
 *   [KenDvD/SmartHostsTool-github](https://github.com/KenDvD/SmartHostsTool-github) - 「智能 Host 测速工具」是一款帮你优化网络访问的实用工具。它能自动获取域名的多个 IP 地址，测试各 IP 延迟并排序，一键将最优 IP 写入系统 Hosts 文件，还支持 GitHub 专属 IP 获取、自定义域名管理和可视化操作界面，让你轻松解决网络访问慢的问题。
 
-*   [Agions/cine-flow](https://github.com/Agions/cine-flow) - 一款基于Python和PyQt6开发的智能视频混剪工具，专为短剧创作者设计。利用多种AI大模型实现自动字幕识别、智能混剪、特效添加等功能，并与剪映等主流剪辑软件深度集成。
+*   [Agions/cine-flow](https://github.com/Agions/cine-flow) - ClipFlow Desktop 是专业的 AI 视频创作桌面应用，基于 PyQt6 构建原生界面，提供从画面理解到成片导出的完整创作能力。
 
 *   [jhihhe/House-Survey-Workflow-Assistant](https://github.com/jhihhe/House-Survey-Workflow-Assistant) - 📁 专为房产摄影工作流打造的桌面自动化工具。支持批量创建文件夹、多线程极速导卡、实时收入统计。采用 Dracula 主题，Python 原生开发，macOS/Windows 开箱即用
 
@@ -845,8 +846,6 @@
 *   [Privilege-privacy/BiliBackup](https://github.com/Privilege-privacy/BiliBackup) - 自动将 BiliBili (B站) 收藏夹内的视频备份到 OneDrive 或其他云存储
 
 *   [szpnygo/VecTextSearch](https://github.com/szpnygo/VecTextSearch) - 一个99%由OpenAI ChatGPT开发的项目。A project that is 99% developed by OpenAI ChatGPT.
-
-*   [csznet/goFile](https://github.com/csznet/goFile) - easy file manager
 
 *   [user1121114685/115push](https://github.com/user1121114685/115push) - 云传(115push)是一个将sha1导入到115网盘的工具，无需将文件下载到本地
 
@@ -3109,6 +3108,10 @@
 *   [daboynb/ChatGPT-Bypass-gui](https://github.com/daboynb/ChatGPT-Bypass-gui) - A  gui that allows you to bypass content filtering in ChatGPT through the OpenAI autocompletion API for DaVinci-003
 
 *   [SummonHIM/Bestdori-Music-Downloader](https://github.com/SummonHIM/Bestdori-Music-Downloader) - A script that automatically downloads music from Bestdori and fills in the music information(Song title, Artist, Album, Composer and Front cover)
+
+## Go Template
+
+*   [csznet/goFile](https://github.com/csznet/goFile) - easy file manager
 
 ## EJS
 
