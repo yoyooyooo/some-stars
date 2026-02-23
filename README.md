@@ -138,7 +138,7 @@
 
 *   [DayuanJiang/next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io) - A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.
 
-*   [bubblelabai/BubbleLab](https://github.com/bubblelabai/BubbleLab) - Open source workflow automation platform built for developers - full observability and code exportability!
+*   [bubblelabai/BubbleLab](https://github.com/bubblelabai/BubbleLab) - Open-core workflow engine powering Bubble Lab — and fully runnable, hostable, and extensible on its own.
 
 *   [graphif/project-graph](https://github.com/graphif/project-graph) - A node-based visual tool for organizing thoughts and notes in a non-linear way.
 
