@@ -38,6 +38,8 @@
 
 ## TypeScript
 
+*   [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) - GitNexus: The Zero-Server Code Intelligence Engine -       GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration
+
 *   [dyad-sh/dyad](https://github.com/dyad-sh/dyad) - Local, open-source AI app builder for power users ✨ v0 / Lovable / Replit / Bolt alternative 🌟 Star if you like it!
 
 *   [jamiepine/voicebox](https://github.com/jamiepine/voicebox) - The open-source voice synthesis studio powered by Qwen3-TTS.
@@ -779,8 +781,6 @@
 *   [ZevenFang/react-native-redux-zhihudaily](https://github.com/ZevenFang/react-native-redux-zhihudaily) - 使用react-native、redux、codepush重构的知乎日报客户端
 
 *   [jianhui1012/bookreader](https://github.com/jianhui1012/bookreader) - 📚模仿Web追书神器--react+redux
-
-*   [bailicangdu/react-pxq](https://github.com/bailicangdu/react-pxq) - 一个 react + redux 的完整项目 和 个人总结
 
 ## Dart
 
