@@ -21,13 +21,13 @@
 *   [Go](#go)
 *   [TypeScript](#typescript)
 *   [Swift](#swift)
-*   [HTML](#html)
+*   [Vue](#vue)
 *   [Svelte](#svelte)
 *   [Shell](#shell)
 *   [CSS](#css)
-*   [Vue](#vue)
 *   [Objective-C](#objective-c)
 *   [miscellaneous](#miscellaneous)
+*   [HTML](#html)
 *   [C++](#c)
 *   [Dart](#dart)
 *   [Kotlin](#kotlin)
@@ -664,7 +664,7 @@
 
 *   [FoundationAgents/MetaGPT](https://github.com/FoundationAgents/MetaGPT) - 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
 
-*   [BrokenSource/BrokenSource](https://github.com/BrokenSource/BrokenSource) - ❤️‍🩹 The Monorepo: House of all projects and the main shared library
+*   [BrokenSource/LegacyMonorepo](https://github.com/BrokenSource/LegacyMonorepo) - ❤️‍🩹 The Monorepo: House of all projects and the main shared library
 
 *   [hankhjliao/RSS2Pocket](https://github.com/hankhjliao/RSS2Pocket) - A tool to save articles from RSS feed to Pocket automatically.
 
@@ -2206,235 +2206,9 @@
 
 *   [Mnpn/Taberu](https://github.com/Mnpn/Taberu) - A simple RSS feed parser for macOS which lives in the menu bar
 
-## HTML
+## Vue
 
 *   [SoKeiKei/CapKit-download](https://github.com/SoKeiKei/CapKit-download) - CapKit 是一款专为创作者打造的轻量级“剪映草稿/模板”管理工具。旨在解决本地模版管理混乱、难以查找、重复冗余等痛点。
-
-*   [oidd/LightToDo](https://github.com/oidd/LightToDo) - Tailored for macOS with native liquid glass design, making tasks as light as inspiration.专为 macOS 打造，原生液态玻璃设计，让待办事项如灵感般轻盈。
-
-*   [cornradio/AirMouse](https://github.com/cornradio/AirMouse) - 用手机当鼠标/键盘的极简解决方案
-
-*   [topcss/AirScan-QR](https://github.com/topcss/AirScan-QR) - AirScan-QR 是一款极简、高效的开源 Web 工具，在通过二维码动态流（QR Code Stream）解决跨设备、跨网络环境下的数据传输痛点。
-
-*   [Sevendogs077/PinMD](https://github.com/Sevendogs077/PinMD) - 一个极简的桌面悬浮Markdown便签
-
-*   [wanyki/Postcards](https://github.com/wanyki/Postcards) - 基于 Vue.js 和 ECharts 开发的个人明信片数字化收集册，记录每一份跨越时空的记忆。
-
-*   [YUxiangLuo/miao](https://github.com/YUxiangLuo/miao) - 一个开箱即用的 sing-box 启动器，支持Linux系统/OpenWrt软路由。30秒实现 TUN 模式透明代理，国内外自动分流。
-
-*   [LoneKingCode/panbox](https://github.com/LoneKingCode/panbox) - 盘盒子是专业的网盘资源盒子，提供海量免费AI资源（AI模型、AI资料、AI课程）、源码下载（前端、后端、移动端）、软件工具（Windows、Mac、手机APP、绿色软件）、学习课程（IT编程、设计创意、办公职场、副业创业）。每日更新优质资源！
-
-*   [jianjieyiban/JJYB\_AI\_VideoAutoCut](https://github.com/jianjieyiban/JJYB_AI_VideoAutoCut) - JJYB\_AI 智剪 - 智能视频自动剪辑与AI解说工具（离线TTS、原创解说、混剪、AI配音）
-
-*   [Xuuuuu04/bilibili-analysis-helper](https://github.com/Xuuuuu04/bilibili-analysis-helper) - B站视频分析助手：提取字幕/评论/关键帧并生成深度分析报告。
-
-*   [yuyou-dev/Vibe-Agent](https://github.com/yuyou-dev/Vibe-Agent) - 手搓Agent系列，香蕉Pro邪修应用和gemini本地化部署
-
-*   [zrt-ai-lab/scanshare](https://github.com/zrt-ai-lab/scanshare) - 微信一键扫描直接上传电脑！干掉微信文件传输助手！
-
-*   [wwwzhouhui/in\_animation](https://github.com/wwwzhouhui/in_animation) - Instructional Animation 是一个基于大语言模型的教学动画生成工具，能够根据用户输入的知识点主题，自动生成视觉精美、交互流畅的 HTML5 动画页面，并支持导出为 MP4 视频和 GIF 格式
-
-*   [SilenceBoy/ai\_news\_card](https://github.com/SilenceBoy/ai_news_card) - 一个现代化的AI新闻周报管理和展示系统，支持动态生成、自动排序和响应式展示。
-
-*   [JoryPein/Notebook](https://github.com/JoryPein/Notebook) - Notebook 是一款完全在您的浏览器中运行的现代化笔记应用。它利用 IndexedDB 将所有数据安全地存储在本地设备上，这意味着它 无需服务器、无需注册、支持离线，并能 100% 保证您的数据隐私。
-
-*   [joyce677/TrendRadar](https://github.com/joyce677/TrendRadar) - 一键监控今日头条、百度热搜、微博、抖音、知乎、B站等35个平台，智能关键词筛选，自动生成热点分析报告。支持企业微信、飞书、钉钉、Telegram推送，30秒网页部署，1分钟手机通知，无需编程基础。还有文字和图片版api可调用
-
-*   [kugeceo/pixzens.luhui.net](https://github.com/kugeceo/pixzens.luhui.net) - 鲁虺禅影截图器。鲁虺Pixzens（禅影截图）是一款专业的截图美化工具，让您的截图更加精美、专业。我们致力于为用户提供简单易用、功能强大的图像编辑体验。基于pixzens.com图颜1.0.0专业的截图美化工具修改。
-
-*   [KaiGe7384/personal-homepage](https://github.com/KaiGe7384/personal-homepage) - 🌟 炫酷简约的个人主页 - 现代化设计，集成终端窗口展示，丰富背景特效
-
-*   [rcy1314/noisedh-nav](https://github.com/rcy1314/noisedh-nav) - 带有组件的hugo导航，通过简单配置即可收藏展示收藏的网站
-
-*   [VirtualityUniverse/KiSS\_wx\_chat\_auto\_summary](https://github.com/VirtualityUniverse/KiSS_wx_chat_auto_summary) - 🚀 Python聊天群日志魔法师：让繁杂群聊变成精华笔记！自动提取、智能总结，多种输出格式随心选，告别信息焦虑，轻松捕捉每一个闪光时刻！💫
-
-*   [Azad-sl/FreeAI](https://github.com/Azad-sl/FreeAI) - FreeAI - 基于 Pollinations.AI 的AI应用平台，实现免费且无限制的AI聊天助手、图像生成和语音合成服务。A powerful AI platform powered by Pollinations.AI, offering free, no-registration, unlimited AI chat, image generation, and TTS services.
-
-*   [Sjj1024/PakePlus](https://github.com/Sjj1024/PakePlus) - Turn any webpage/HTML/Vue/React and so on into desktop and mobile app under 5M with easy in few minutes. 轻松将任意网站/HTML/Vue/React等项目构建为轻量级(小于5M)多端桌面应用和手机应用仅需几分钟. https://ppofficial.netlify.app
-
-*   [qq254950134/my-iptv](https://github.com/qq254950134/my-iptv) - 用于个人托管自用直播源
-
-*   [yibie/hugo-theme-deck](https://github.com/yibie/hugo-theme-deck) -
-
-*   [0000cd/wolf-set](https://github.com/0000cd/wolf-set) - Bluf 是一款慵懒的瀑布流 网址导航 Hugo 主题，源于 Wolf Set 狼集导航的实践。
-
-*   [BannyLon/DifyAIA](https://github.com/BannyLon/DifyAIA) - 基于Dify自主创建的AI应用DSL工作流，你可以免费获取，无论是出于个人需求还是学习目的，它都能为您开启一段充满无限可能的智能之旅。
-
-*   [MCDFsteve/Kurisu](https://github.com/MCDFsteve/Kurisu) - 一个靠口头描述来转换文件格式的程序 A program that converts file formats based on verbal descriptions 口頭での説明に基づいてファイル形式を変換するプログラム
-
-*   [1zimu-com/1zimu](https://github.com/1zimu-com/1zimu) - 一字幕(1zimu)是一款支持，在线外文视频资源、电影、美剧、音频、内嵌字幕视频、可外挂字幕的字幕列表播放浏览器扩展。轻松习得外语的辅助工具。1zimu is a browser extension that supports the playback of subtitle lists for online foreign language video resources, movies, American TV shows, audios, and embedded subtitle videos, and external subtitles. It is an auxiliary tool for effortlessly acquiring foreign languages.
-
-*   [BDTA-zky/GeoWelcome](https://github.com/BDTA-zky/GeoWelcome) - 动态个性化欢迎页面，基于访客的地理位置和时间自动生成个性化的问候语。简单部署，一键发布，欢迎您的到来！
-
-*   [vbskycn/iptv](https://github.com/vbskycn/iptv) - iptv最新可用直播源,支持iptv4/iptv6双栈访问。直播电视系统，这里有折腾好的，直接下载用吧。直播电视app电视手机全部兼容。
-
-*   [nas-tool/warpkey](https://github.com/nas-tool/warpkey) - CloudFlare Key Collection Tool CloudFlare WARP KEY收集工具，WARP KEY收集工具，每小时自动更新https://www.wanghaoyu.com.cn/archives/cloudflare-warp-key.html
-
-*   [kimwang1978/collect-txt](https://github.com/kimwang1978/collect-txt) - 源 (自动整理)
-
-*   [657258535/Catalog-generation](https://github.com/657258535/Catalog-generation) - HTML 文章目录生成 ｜ HTML article directory generation
-
-*   [ImageOptim/ImageOptim](https://github.com/ImageOptim/ImageOptim) - GUI image optimizer for Mac
-
-*   [SakuraVincent/MyHLS](https://github.com/SakuraVincent/MyHLS) - 视频床方案，视频切片上传到免费图床  二开于 https://github.com/sxyazi/free-hls
-
-*   [zhufacai/LawBook](https://github.com/zhufacai/LawBook) - 中国法律快查手册
-
-*   [rcy1314/VerseWebX](https://github.com/rcy1314/VerseWebX) - 基于Electron快速构建跨平台的桌面应用程序
-
-*   [adams549659584/go-proxy-bingai](https://github.com/adams549659584/go-proxy-bingai) - 用 Vue3 和 Go 搭建的微软 New Bing 演示站点，拥有一致的 UI 体验，支持 ChatGPT 提示词，国内可用。
-
-*   [chn-lee-yumi/MaterialSearch](https://github.com/chn-lee-yumi/MaterialSearch) - Semantic search. Search local photos and videos through natural language. AI语义搜索本地素材。以图搜图、查找本地素材、根据文字描述匹配画面、视频帧搜索、根据画面描述搜索视频。
-
-*   [watchakorn-18k/bot-news-it-discord](https://github.com/watchakorn-18k/bot-news-it-discord) - 📑 Bot updates news about IT and programming with Update every hour
-
-*   [aoaostar/legado](https://github.com/aoaostar/legado) - 阅读APP书源
-
-*   [Kirilllive/tuesday-js](https://github.com/Kirilllive/tuesday-js) - simple web-based, free and open-source visual novel editor that can be used in a web browser. It is written in JavaScript without using any third party libraries and thus does not require additional software installation. The engine uses standard HTML document elements such as div and img.
-
-*   [mydearcc/tools](https://github.com/mydearcc/tools) - free online tools, developer toolbox, web utilities: Minify CSS, Format JSON, Encrypt/Decrypt, Convert Formats, QR Code, Dev Docs,Webmaster Tools, Image Tools & more. For programmers, webmasters,designers.  | 免费在线工具箱集合
-
-*   [LeBronWilly/IG\_Photo\_Downloader\_Python](https://github.com/LeBronWilly/IG_Photo_Downloader_Python) - IG Photo Downloader
-
-*   [conoro/tiktok-rss-flat](https://github.com/conoro/tiktok-rss-flat) - Generate RSS feeds for TikTok accounts
-
-*   [suconghou/u2flutter](https://github.com/suconghou/u2flutter) - flutter app of youtube video proxy
-
-*   [WashingMachine94/Youtube-Downloader](https://github.com/WashingMachine94/Youtube-Downloader) - A free software to download Youtube videos or audio files. Ensures highest video and audio quality.
-
-*   [bazzsystems/Web-AI-Archive](https://github.com/bazzsystems/Web-AI-Archive) - AI Archive is a GitHub project dedicated to collecting and preserving data about artificial intelligence (AI) systems. Our mission is to create a comprehensive archive of AI systems and the data they generate, providing a valuable resource for researchers and developers.
-
-*   [qdlmcfresh/GuilloArchive](https://github.com/qdlmcfresh/GuilloArchive) - Archiving @GuillotineTea on Twitter
-
-*   [YangguangZhou/Cards](https://github.com/YangguangZhou/Cards) - 个人名片 Cards
-
-*   [gh0stkey/gh0stkey.github.io](https://github.com/gh0stkey/gh0stkey.github.io) - 个人博客 https://gh0st.cn 模版来自：https://github.com/heiswayi/the-plain 在原基础上增加了一些功能
-
-*   [dontpanic92/embedded-netease-music-player](https://github.com/dontpanic92/embedded-netease-music-player) - 网易云音乐外链播放器 - Embed a netease music player into your web page
-
-*   [xiaowansm5/Onlinemusic](https://github.com/xiaowansm5/Onlinemusic) - 在线音乐播放器
-
-*   [evan-gyy/XQFTools](https://github.com/evan-gyy/XQFTools) - XQF办公自动化小工具
-
-*   [moyuban/moyuban.github.io](https://github.com/moyuban/moyuban.github.io) - 摸鱼办
-
-*   [sangyuxiaowu/HackerScreenSaver](https://github.com/sangyuxiaowu/HackerScreenSaver) - .NET develops a screen saver. .NET 开发一款屏幕保护程序，Hacker Screen Saver 是一款 .NET 设计的屏幕保护程序，可以显示 HTML 页面，你可以将黑客模拟器的网页，摸鱼时需要的windows更新，或者爱心代码网页设置为你的 Windows 电脑屏保。
-
-*   [cf-pages/Telegraph-Image](https://github.com/cf-pages/Telegraph-Image) - Image Hosting solution, Flickr/imgur alternative, make it easy for users to share their images. Using Cloudflare Pages and Telegraph.
-
-*   [TakWolf/ark-pixel-font](https://github.com/TakWolf/ark-pixel-font) - 开源的泛中日韩像素字体，黑体风格
-
-*   [songquanpeng/go-file](https://github.com/songquanpeng/go-file) - 基于 Go 的文件分享工具，仅单可执行文件，开箱即用，内置图床和视频播放页面. File sharing tool based on Go.
-
-*   [ZutJoe/KoalaHackerNews](https://github.com/ZutJoe/KoalaHackerNews) - Koala hacker news 周报内容 每周二0点左右更新
-
-*   [LiuYuYang01/BookMark](https://github.com/LiuYuYang01/BookMark) - BookMark 是一款轻量、简洁雅观的书签导航项目 你可以将它设置为你的浏览器主页 告别杂乱无章的浏览器书签栏。相信你会喜欢它的! 🎉
-
-## Svelte
-
-*   [beyoug/mua](https://github.com/beyoug/mua) - 🌙 Mua - 极简主义、现代化的高性能桌面下载管理器。基于 Tauri v2 与 Aria2 构建，拥有精美的玻璃拟态设计与极致的交互反馈。
-
-*   [jxqu3/aiui](https://github.com/jxqu3/aiui) - A simple no-install web UI for Ollama and OAI-Compatible APIs!
-
-*   [beromir/Servas](https://github.com/beromir/Servas) - A self-hosted bookmark management tool.
-
-## Shell
-
-*   [Cloud370/landscape-mini](https://github.com/Cloud370/landscape-mini) - Landscape Router 极简 x86 镜像构建器 — 基于 debootstrap，支持 BIOS+UEFI 双启动，压缩镜像仅 ~107MB
-
-*   [Future-404/TAV-X](https://github.com/Future-404/TAV-X) - AI脚本合集 一键安装命令  bash <(curl -s -L https://tav-x.future404.qzz.io)      🧑🧑
-
-*   [alg-bug-engineer/vibe-coding-collection](https://github.com/alg-bug-engineer/vibe-coding-collection) - Vibe Coding 资源集合 - AI 辅助编程一站式学习平台  本仓库系统收集了国内外优质的 Vibe Coding（AI 辅助编程）资源，包括： • 核心概念和理论基础 • 50+ AI 编程工具详细对比 • 专家课程和大厂官方文档 • 实战项目案例和工作流程 • 系统化的视频教程 • GitHub 优质仓库推荐  适合所有想掌握 AI 辅助编程的开发者。
-
-*   [ChHsiching/GitHub-Chinese-Top-Charts-Classified](https://github.com/ChHsiching/GitHub-Chinese-Top-Charts-Classified) - 🇨🇳 帮助你发现优秀中文项目，可以无语言障碍地、更高效地吸收优秀经验成果；可分类查看：总榜、增速榜、新秀榜；
-
-*   [EXP-Tools/vscode-web-docker](https://github.com/EXP-Tools/vscode-web-docker) - docker 一键部署 vscode-web ：使用浏览器远程开发
-
-*   [httpsok/httpsok](https://github.com/httpsok/httpsok) - 🔥🔥🔥一行命令，轻松搞定SSL证书自动续期。 SSL泛域名证书，SSL证书管理，SSL证书自动续期，SSL证书自动更新，七牛云、阿里云、腾讯云、CDN、OSS、https证书管理,https证书管理,免费SSL证书,TLS证书自动续签,nginx证书自动续期工具，nginx证书管理。从此告别Let's Encrypt
-
-*   [web1n/wechat-universal-flatpak](https://github.com/web1n/wechat-universal-flatpak) - Flatpak 打包微信 Linux Universal 版
-
-*   [zydou/WeChat-AppImage](https://github.com/zydou/WeChat-AppImage) - 微信客户端Linux AppImage. AppImage version of wechat for linux desktop.
-
-*   [KZ25T/wechat-appimage](https://github.com/KZ25T/wechat-appimage) - Linux 运行微信（可能是）最简单的方法，支持 debian/Arch/RHEL 三大发行版系列
-
-*   [fscarmen/sing-box](https://github.com/fscarmen/sing-box) - Sing-box 全家桶 --- 一键多协议脚本
-
-*   [Yanyutin753/unofficial-gpt4-api](https://github.com/Yanyutin753/unofficial-gpt4-api) - 一键部署专属于中转gpt-4，回复流畅，支持高并发，小白也能快速使用！unofficial-gpt4-api Transfer gpt-4, smooth response, supports high concurrency, supports one click script deployment, and even novices can use it quickly!
-
-*   [RayWangQvQ/sing-box-installer](https://github.com/RayWangQvQ/sing-box-installer) - One-click installation of sing-box server, and automatic generation of reality, naiveproxy, hysteria2 nodes, based on official images and binary packages, extremely simple installation
-
-*   [ohmybash/oh-my-bash](https://github.com/ohmybash/oh-my-bash) - A delightful community-driven framework for managing your bash configuration, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
-
-*   [flucont/btcloud](https://github.com/flucont/btcloud) - PHP开发的宝塔面板第三方云端
-
-*   [Mon-ius/Docker-Warp-Socks](https://github.com/Mon-ius/Docker-Warp-Socks) - Connet to CloudFlare WARP, exposing `socks5` proxy all together.
-
-*   [Misaka-blog/xray-script](https://github.com/Misaka-blog/xray-script) - Xray 一键安装脚本，基于网络跳跃原版魔改，支持IPv4/IPv6 VPS，支持与宝塔面板共存
-
-*   [lingeringsound/10007\_auto](https://github.com/lingeringsound/10007_auto) - ZH: 自动更新去广告的hosts ，En: Automatically update ad hosts
-
-*   [aviaryan/awesome-no-login-web-apps](https://github.com/aviaryan/awesome-no-login-web-apps) - 🚀 Awesome (free) web apps that work without login
-
-*   [RightToPrivacy/snowflake-tor-service](https://github.com/RightToPrivacy/snowflake-tor-service) - Automated 🧅 Tor ❄️ Snowflake Proxy (any Linux device). Run install.sh and you have a new Snowflake ProxyService  (every boot)
-
-*   [EXP-Tools/mstream-docker](https://github.com/EXP-Tools/mstream-docker) - docker 一键部署 mstream 私人云音乐
-
-*   [Jason6111/OpenWrt\_Personal](https://github.com/Jason6111/OpenWrt_Personal) - Jason6111's OpenWrt source 在线集成自动编译环境
-
-*   [xs-web-lhdd/vitepress-template](https://github.com/xs-web-lhdd/vitepress-template) - vitepress模板，直接开箱即用，不用再配置导航侧边栏等内容，直接写内容即可
-
-## CSS
-
-*   [Nitai9h/nBlogHexo](https://github.com/Nitai9h/nBlogHexo) - 一个基于Hexo的轻量极简主题 / A lightweight minimalist theme based on Hexo
-
-*   [HagiCode-org/site](https://github.com/HagiCode-org/site) - Hagicode 是一款 AI 驱动的代码智能助手，通过创新的 OpenSpec 工作流、多线程并发操作 和 游戏化机制，为开发者带来前所未有的编码体验。
-
-*   [zqlit/Hugo-Theme-Amigo](https://github.com/zqlit/Hugo-Theme-Amigo) - 一款简约大方的Hugo主题，UI仿微信朋友圈，评论依赖于 Artalk 2.8.7 版本
-
-*   [SpatioStu/Lofi](https://github.com/SpatioStu/Lofi) - 极简、纯粹、黑白风格的 Hexo 博客主题。
-
-*   [telagod/kooix-cut](https://github.com/telagod/kooix-cut) - ✂️ 智能视频剪辑预处理工具 | 自动合并视频并删除静音片段 | Rust + Tauri 2.0 液态玻璃 GUI
-
-*   [foxihd/hugo-brewm](https://github.com/foxihd/hugo-brewm) - Fine-brewed Hugo theme made open
-
-*   [Azimiao/TypeflowThemeForAzimiao](https://github.com/Azimiao/TypeflowThemeForAzimiao) - WordPress (Child) Theme For azimiao.com
-
-*   [verkyer/xg-icons](https://github.com/verkyer/xg-icons) - 图标托管项目，基于PHP，可以实现自动抓取分组内的图标，并且快速复制。
-
-*   [maxminmarconi/light\_card](https://github.com/maxminmarconi/light_card) - 一个简洁优雅的卡片生成工具，让你轻松创建精美的内容卡片。支持自定义内容、多种主题样式和二维码，让创作变得更加简单有趣。
-
-*   [eKing-one/pansou](https://github.com/eKing-one/pansou) - 这是一个基于Thinkphp 6.1 + MySQL开发的网盘搜索引擎，可以批量导入各大网盘链接，例如百度网盘、阿里云盘、夸克网盘等。
-
-*   [cayxc/Mdmdt](https://github.com/cayxc/Mdmdt) - Typora极简文档主题Mdmdt，包含亮色和暗色两种主题，是深度定制的个性化Typora主题；Typora minimalist document theme Mdmdt. Featuring both light and dark themes, it is a deeply customized personalized Typora theme.
-
-*   [ImGoodBai/GoodWeBot](https://github.com/ImGoodBai/GoodWeBot) - 全RPA技术实现完全合规，下载一键免安装运行，已接入coze等主流AI，使用超级简便的AI微信机器人
-
-*   [fordes123/typecho-theme-pir](https://github.com/fordes123/typecho-theme-pir) - typecho相册主题，瀑布流、懒加载、无限滚动
-
-*   [jakholuo/quest](https://github.com/jakholuo/quest) - 一款轻量 Memo 记录程序，基于 Bun + Hono + MongoDB 构建
-
-*   [stilleshan/dockerfiles](https://github.com/stilleshan/dockerfiles) - 不定期收集,整理和编写常用优秀软件和服务的 Dockerfile 文件.  https://docker.ioiox.com
-
-*   [piratebayproxy/proxybay](https://github.com/piratebayproxy/proxybay) - Mirror for the Proxy Bay
-
-*   [sunyctf/css-effects](https://github.com/sunyctf/css-effects) - ⭐ 前端css特效，持续更新。喜欢的话就Star一下吧！
-
-*   [longjie2333/Message](https://github.com/longjie2333/Message) - 留言条 · 就留下一句你想说的话吧
-
-*   [BugFor-Pings/nimingly](https://github.com/BugFor-Pings/nimingly) - 一个免费的匿名留言程序，可做匿名留言树洞，对接公众号做 匿名留言送信邮局
-
-*   [bradtraversy/nodejs-openai-image](https://github.com/bradtraversy/nodejs-openai-image) - Web app that uses Node.js and OpenAI to generate images
-
-*   [xiangjianan/lks](https://github.com/xiangjianan/lks) -
-
-*   [ZxBing0066/pixel-converter](https://github.com/ZxBing0066/pixel-converter) - 上传图片即可一键将图片转换为像素风格，支持多种自定义方式，可生成方块像素、点状像素和文字像素图等等。支持导出纯 CSS 像素图，并支持生成 CSS 像素图动画。
-
-*   [emperinter/auto-generate-navigation](https://github.com/emperinter/auto-generate-navigation) - A plugin which  can generate a navigation  catalogue on your WordPress post!
-
-*   [xmizore/hexo-theme-insnow](https://github.com/xmizore/hexo-theme-insnow) - insnow, a simple hexo theme.
-
-## Vue
 
 *   [wintopic/DOUYIN\_EMOJI](https://github.com/wintopic/DOUYIN_EMOJI) - 抖音表情下载
 
@@ -2620,6 +2394,110 @@
 
 *   [chrisj74/vue-rss-blog](https://github.com/chrisj74/vue-rss-blog) - An embeddable to pull an RSS feed into your website
 
+## Svelte
+
+*   [beyoug/mua](https://github.com/beyoug/mua) - 🌙 Mua - 极简主义、现代化的高性能桌面下载管理器。基于 Tauri v2 与 Aria2 构建，拥有精美的玻璃拟态设计与极致的交互反馈。
+
+*   [jxqu3/aiui](https://github.com/jxqu3/aiui) - A simple no-install web UI for Ollama and OAI-Compatible APIs!
+
+*   [beromir/Servas](https://github.com/beromir/Servas) - A self-hosted bookmark management tool.
+
+## Shell
+
+*   [Cloud370/landscape-mini](https://github.com/Cloud370/landscape-mini) - Landscape Router 极简 x86 镜像构建器 — 基于 debootstrap，支持 BIOS+UEFI 双启动，压缩镜像仅 ~107MB
+
+*   [Future-404/TAV-X](https://github.com/Future-404/TAV-X) - AI脚本合集 一键安装命令  bash <(curl -s -L https://tav-x.future404.qzz.io)      🧑🧑
+
+*   [alg-bug-engineer/vibe-coding-collection](https://github.com/alg-bug-engineer/vibe-coding-collection) - Vibe Coding 资源集合 - AI 辅助编程一站式学习平台  本仓库系统收集了国内外优质的 Vibe Coding（AI 辅助编程）资源，包括： • 核心概念和理论基础 • 50+ AI 编程工具详细对比 • 专家课程和大厂官方文档 • 实战项目案例和工作流程 • 系统化的视频教程 • GitHub 优质仓库推荐  适合所有想掌握 AI 辅助编程的开发者。
+
+*   [ChHsiching/GitHub-Chinese-Top-Charts-Classified](https://github.com/ChHsiching/GitHub-Chinese-Top-Charts-Classified) - 🇨🇳 帮助你发现优秀中文项目，可以无语言障碍地、更高效地吸收优秀经验成果；可分类查看：总榜、增速榜、新秀榜；
+
+*   [EXP-Tools/vscode-web-docker](https://github.com/EXP-Tools/vscode-web-docker) - docker 一键部署 vscode-web ：使用浏览器远程开发
+
+*   [httpsok/httpsok](https://github.com/httpsok/httpsok) - 🔥🔥🔥一行命令，轻松搞定SSL证书自动续期。 SSL泛域名证书，SSL证书管理，SSL证书自动续期，SSL证书自动更新，七牛云、阿里云、腾讯云、CDN、OSS、https证书管理,https证书管理,免费SSL证书,TLS证书自动续签,nginx证书自动续期工具，nginx证书管理。从此告别Let's Encrypt
+
+*   [web1n/wechat-universal-flatpak](https://github.com/web1n/wechat-universal-flatpak) - Flatpak 打包微信 Linux Universal 版
+
+*   [zydou/WeChat-AppImage](https://github.com/zydou/WeChat-AppImage) - 微信客户端Linux AppImage. AppImage version of wechat for linux desktop.
+
+*   [KZ25T/wechat-appimage](https://github.com/KZ25T/wechat-appimage) - Linux 运行微信（可能是）最简单的方法，支持 debian/Arch/RHEL 三大发行版系列
+
+*   [fscarmen/sing-box](https://github.com/fscarmen/sing-box) - Sing-box 全家桶 --- 一键多协议脚本
+
+*   [Yanyutin753/unofficial-gpt4-api](https://github.com/Yanyutin753/unofficial-gpt4-api) - 一键部署专属于中转gpt-4，回复流畅，支持高并发，小白也能快速使用！unofficial-gpt4-api Transfer gpt-4, smooth response, supports high concurrency, supports one click script deployment, and even novices can use it quickly!
+
+*   [RayWangQvQ/sing-box-installer](https://github.com/RayWangQvQ/sing-box-installer) - One-click installation of sing-box server, and automatic generation of reality, naiveproxy, hysteria2 nodes, based on official images and binary packages, extremely simple installation
+
+*   [ohmybash/oh-my-bash](https://github.com/ohmybash/oh-my-bash) - A delightful community-driven framework for managing your bash configuration, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
+
+*   [flucont/btcloud](https://github.com/flucont/btcloud) - PHP开发的宝塔面板第三方云端
+
+*   [Mon-ius/Docker-Warp-Socks](https://github.com/Mon-ius/Docker-Warp-Socks) - Connet to CloudFlare WARP, exposing `socks5` proxy all together.
+
+*   [Misaka-blog/xray-script](https://github.com/Misaka-blog/xray-script) - Xray 一键安装脚本，基于网络跳跃原版魔改，支持IPv4/IPv6 VPS，支持与宝塔面板共存
+
+*   [lingeringsound/10007\_auto](https://github.com/lingeringsound/10007_auto) - ZH: 自动更新去广告的hosts ，En: Automatically update ad hosts
+
+*   [aviaryan/awesome-no-login-web-apps](https://github.com/aviaryan/awesome-no-login-web-apps) - 🚀 Awesome (free) web apps that work without login
+
+*   [RightToPrivacy/snowflake-tor-service](https://github.com/RightToPrivacy/snowflake-tor-service) - Automated 🧅 Tor ❄️ Snowflake Proxy (any Linux device). Run install.sh and you have a new Snowflake ProxyService  (every boot)
+
+*   [EXP-Tools/mstream-docker](https://github.com/EXP-Tools/mstream-docker) - docker 一键部署 mstream 私人云音乐
+
+*   [Jason6111/OpenWrt\_Personal](https://github.com/Jason6111/OpenWrt_Personal) - Jason6111's OpenWrt source 在线集成自动编译环境
+
+*   [xs-web-lhdd/vitepress-template](https://github.com/xs-web-lhdd/vitepress-template) - vitepress模板，直接开箱即用，不用再配置导航侧边栏等内容，直接写内容即可
+
+## CSS
+
+*   [Nitai9h/nBlogHexo](https://github.com/Nitai9h/nBlogHexo) - 一个基于Hexo的轻量极简主题 / A lightweight minimalist theme based on Hexo
+
+*   [HagiCode-org/site](https://github.com/HagiCode-org/site) - Hagicode 是一款 AI 驱动的代码智能助手，通过创新的 OpenSpec 工作流、多线程并发操作 和 游戏化机制，为开发者带来前所未有的编码体验。
+
+*   [zqlit/Hugo-Theme-Amigo](https://github.com/zqlit/Hugo-Theme-Amigo) - 一款简约大方的Hugo主题，UI仿微信朋友圈，评论依赖于 Artalk 2.8.7 版本
+
+*   [SpatioStu/Lofi](https://github.com/SpatioStu/Lofi) - 极简、纯粹、黑白风格的 Hexo 博客主题。
+
+*   [telagod/kooix-cut](https://github.com/telagod/kooix-cut) - ✂️ 智能视频剪辑预处理工具 | 自动合并视频并删除静音片段 | Rust + Tauri 2.0 液态玻璃 GUI
+
+*   [foxihd/hugo-brewm](https://github.com/foxihd/hugo-brewm) - Fine-brewed Hugo theme made open
+
+*   [Azimiao/TypeflowThemeForAzimiao](https://github.com/Azimiao/TypeflowThemeForAzimiao) - WordPress (Child) Theme For azimiao.com
+
+*   [verkyer/xg-icons](https://github.com/verkyer/xg-icons) - 图标托管项目，基于PHP，可以实现自动抓取分组内的图标，并且快速复制。
+
+*   [maxminmarconi/light\_card](https://github.com/maxminmarconi/light_card) - 一个简洁优雅的卡片生成工具，让你轻松创建精美的内容卡片。支持自定义内容、多种主题样式和二维码，让创作变得更加简单有趣。
+
+*   [eKing-one/pansou](https://github.com/eKing-one/pansou) - 这是一个基于Thinkphp 6.1 + MySQL开发的网盘搜索引擎，可以批量导入各大网盘链接，例如百度网盘、阿里云盘、夸克网盘等。
+
+*   [cayxc/Mdmdt](https://github.com/cayxc/Mdmdt) - Typora极简文档主题Mdmdt，包含亮色和暗色两种主题，是深度定制的个性化Typora主题；Typora minimalist document theme Mdmdt. Featuring both light and dark themes, it is a deeply customized personalized Typora theme.
+
+*   [ImGoodBai/GoodWeBot](https://github.com/ImGoodBai/GoodWeBot) - 全RPA技术实现完全合规，下载一键免安装运行，已接入coze等主流AI，使用超级简便的AI微信机器人
+
+*   [fordes123/typecho-theme-pir](https://github.com/fordes123/typecho-theme-pir) - typecho相册主题，瀑布流、懒加载、无限滚动
+
+*   [jakholuo/quest](https://github.com/jakholuo/quest) - 一款轻量 Memo 记录程序，基于 Bun + Hono + MongoDB 构建
+
+*   [stilleshan/dockerfiles](https://github.com/stilleshan/dockerfiles) - 不定期收集,整理和编写常用优秀软件和服务的 Dockerfile 文件.  https://docker.ioiox.com
+
+*   [piratebayproxy/proxybay](https://github.com/piratebayproxy/proxybay) - Mirror for the Proxy Bay
+
+*   [sunyctf/css-effects](https://github.com/sunyctf/css-effects) - ⭐ 前端css特效，持续更新。喜欢的话就Star一下吧！
+
+*   [longjie2333/Message](https://github.com/longjie2333/Message) - 留言条 · 就留下一句你想说的话吧
+
+*   [BugFor-Pings/nimingly](https://github.com/BugFor-Pings/nimingly) - 一个免费的匿名留言程序，可做匿名留言树洞，对接公众号做 匿名留言送信邮局
+
+*   [bradtraversy/nodejs-openai-image](https://github.com/bradtraversy/nodejs-openai-image) - Web app that uses Node.js and OpenAI to generate images
+
+*   [xiangjianan/lks](https://github.com/xiangjianan/lks) -
+
+*   [ZxBing0066/pixel-converter](https://github.com/ZxBing0066/pixel-converter) - 上传图片即可一键将图片转换为像素风格，支持多种自定义方式，可生成方块像素、点状像素和文字像素图等等。支持导出纯 CSS 像素图，并支持生成 CSS 像素图动画。
+
+*   [emperinter/auto-generate-navigation](https://github.com/emperinter/auto-generate-navigation) - A plugin which  can generate a navigation  catalogue on your WordPress post!
+
+*   [xmizore/hexo-theme-insnow](https://github.com/xmizore/hexo-theme-insnow) - insnow, a simple hexo theme.
+
 ## Objective-C
 
 *   [cookieodd/AWECommentAudioTweak](https://github.com/cookieodd/AWECommentAudioTweak) - 抖音评论区语音下载 & 语音评论修改插件 & 支持 ai 生成语音替换
@@ -2765,6 +2643,128 @@
 *   [MarkMindCkm/obsidian-markmind](https://github.com/MarkMindCkm/obsidian-markmind) - A mind map, outline for obsidian,It support mobile and desktop
 
 *   [juancarlospaco/awesome-streaming-tools](https://github.com/juancarlospaco/awesome-streaming-tools) - Awesome Streaming Tools
+
+## HTML
+
+*   [oidd/LightToDo](https://github.com/oidd/LightToDo) - Tailored for macOS with native liquid glass design, making tasks as light as inspiration.专为 macOS 打造，原生液态玻璃设计，让待办事项如灵感般轻盈。
+
+*   [cornradio/AirMouse](https://github.com/cornradio/AirMouse) - 用手机当鼠标/键盘的极简解决方案
+
+*   [topcss/AirScan-QR](https://github.com/topcss/AirScan-QR) - AirScan-QR 是一款极简、高效的开源 Web 工具，在通过二维码动态流（QR Code Stream）解决跨设备、跨网络环境下的数据传输痛点。
+
+*   [Sevendogs077/PinMD](https://github.com/Sevendogs077/PinMD) - 一个极简的桌面悬浮Markdown便签
+
+*   [wanyki/Postcards](https://github.com/wanyki/Postcards) - 基于 Vue.js 和 ECharts 开发的个人明信片数字化收集册，记录每一份跨越时空的记忆。
+
+*   [YUxiangLuo/miao](https://github.com/YUxiangLuo/miao) - 一个开箱即用的 sing-box 启动器，支持Linux系统/OpenWrt软路由。30秒实现 TUN 模式透明代理，国内外自动分流。
+
+*   [LoneKingCode/panbox](https://github.com/LoneKingCode/panbox) - 盘盒子是专业的网盘资源盒子，提供海量免费AI资源（AI模型、AI资料、AI课程）、源码下载（前端、后端、移动端）、软件工具（Windows、Mac、手机APP、绿色软件）、学习课程（IT编程、设计创意、办公职场、副业创业）。每日更新优质资源！
+
+*   [jianjieyiban/JJYB\_AI\_VideoAutoCut](https://github.com/jianjieyiban/JJYB_AI_VideoAutoCut) - JJYB\_AI 智剪 - 智能视频自动剪辑与AI解说工具（离线TTS、原创解说、混剪、AI配音）
+
+*   [Xuuuuu04/bilibili-analysis-helper](https://github.com/Xuuuuu04/bilibili-analysis-helper) - B站视频分析助手：提取字幕/评论/关键帧并生成深度分析报告。
+
+*   [yuyou-dev/Vibe-Agent](https://github.com/yuyou-dev/Vibe-Agent) - 手搓Agent系列，香蕉Pro邪修应用和gemini本地化部署
+
+*   [zrt-ai-lab/scanshare](https://github.com/zrt-ai-lab/scanshare) - 微信一键扫描直接上传电脑！干掉微信文件传输助手！
+
+*   [wwwzhouhui/in\_animation](https://github.com/wwwzhouhui/in_animation) - Instructional Animation 是一个基于大语言模型的教学动画生成工具，能够根据用户输入的知识点主题，自动生成视觉精美、交互流畅的 HTML5 动画页面，并支持导出为 MP4 视频和 GIF 格式
+
+*   [SilenceBoy/ai\_news\_card](https://github.com/SilenceBoy/ai_news_card) - 一个现代化的AI新闻周报管理和展示系统，支持动态生成、自动排序和响应式展示。
+
+*   [JoryPein/Notebook](https://github.com/JoryPein/Notebook) - Notebook 是一款完全在您的浏览器中运行的现代化笔记应用。它利用 IndexedDB 将所有数据安全地存储在本地设备上，这意味着它 无需服务器、无需注册、支持离线，并能 100% 保证您的数据隐私。
+
+*   [joyce677/TrendRadar](https://github.com/joyce677/TrendRadar) - 一键监控今日头条、百度热搜、微博、抖音、知乎、B站等35个平台，智能关键词筛选，自动生成热点分析报告。支持企业微信、飞书、钉钉、Telegram推送，30秒网页部署，1分钟手机通知，无需编程基础。还有文字和图片版api可调用
+
+*   [kugeceo/pixzens.luhui.net](https://github.com/kugeceo/pixzens.luhui.net) - 鲁虺禅影截图器。鲁虺Pixzens（禅影截图）是一款专业的截图美化工具，让您的截图更加精美、专业。我们致力于为用户提供简单易用、功能强大的图像编辑体验。基于pixzens.com图颜1.0.0专业的截图美化工具修改。
+
+*   [KaiGe7384/personal-homepage](https://github.com/KaiGe7384/personal-homepage) - 🌟 炫酷简约的个人主页 - 现代化设计，集成终端窗口展示，丰富背景特效
+
+*   [rcy1314/noisedh-nav](https://github.com/rcy1314/noisedh-nav) - 带有组件的hugo导航，通过简单配置即可收藏展示收藏的网站
+
+*   [VirtualityUniverse/KiSS\_wx\_chat\_auto\_summary](https://github.com/VirtualityUniverse/KiSS_wx_chat_auto_summary) - 🚀 Python聊天群日志魔法师：让繁杂群聊变成精华笔记！自动提取、智能总结，多种输出格式随心选，告别信息焦虑，轻松捕捉每一个闪光时刻！💫
+
+*   [Azad-sl/FreeAI](https://github.com/Azad-sl/FreeAI) - FreeAI - 基于 Pollinations.AI 的AI应用平台，实现免费且无限制的AI聊天助手、图像生成和语音合成服务。A powerful AI platform powered by Pollinations.AI, offering free, no-registration, unlimited AI chat, image generation, and TTS services.
+
+*   [Sjj1024/PakePlus](https://github.com/Sjj1024/PakePlus) - Turn any webpage/HTML/Vue/React and so on into desktop and mobile app under 5M with easy in few minutes. 轻松将任意网站/HTML/Vue/React等项目构建为轻量级(小于5M)多端桌面应用和手机应用仅需几分钟. https://ppofficial.netlify.app
+
+*   [qq254950134/my-iptv](https://github.com/qq254950134/my-iptv) - 用于个人托管自用直播源
+
+*   [yibie/hugo-theme-deck](https://github.com/yibie/hugo-theme-deck) -
+
+*   [0000cd/wolf-set](https://github.com/0000cd/wolf-set) - Bluf 是一款慵懒的瀑布流 网址导航 Hugo 主题，源于 Wolf Set 狼集导航的实践。
+
+*   [BannyLon/DifyAIA](https://github.com/BannyLon/DifyAIA) - 基于Dify自主创建的AI应用DSL工作流，你可以免费获取，无论是出于个人需求还是学习目的，它都能为您开启一段充满无限可能的智能之旅。
+
+*   [MCDFsteve/Kurisu](https://github.com/MCDFsteve/Kurisu) - 一个靠口头描述来转换文件格式的程序 A program that converts file formats based on verbal descriptions 口頭での説明に基づいてファイル形式を変換するプログラム
+
+*   [1zimu-com/1zimu](https://github.com/1zimu-com/1zimu) - 一字幕(1zimu)是一款支持，在线外文视频资源、电影、美剧、音频、内嵌字幕视频、可外挂字幕的字幕列表播放浏览器扩展。轻松习得外语的辅助工具。1zimu is a browser extension that supports the playback of subtitle lists for online foreign language video resources, movies, American TV shows, audios, and embedded subtitle videos, and external subtitles. It is an auxiliary tool for effortlessly acquiring foreign languages.
+
+*   [BDTA-zky/GeoWelcome](https://github.com/BDTA-zky/GeoWelcome) - 动态个性化欢迎页面，基于访客的地理位置和时间自动生成个性化的问候语。简单部署，一键发布，欢迎您的到来！
+
+*   [vbskycn/iptv](https://github.com/vbskycn/iptv) - iptv最新可用直播源,支持iptv4/iptv6双栈访问。直播电视系统，这里有折腾好的，直接下载用吧。直播电视app电视手机全部兼容。
+
+*   [nas-tool/warpkey](https://github.com/nas-tool/warpkey) - CloudFlare Key Collection Tool CloudFlare WARP KEY收集工具，WARP KEY收集工具，每小时自动更新https://www.wanghaoyu.com.cn/archives/cloudflare-warp-key.html
+
+*   [kimwang1978/collect-txt](https://github.com/kimwang1978/collect-txt) - 源 (自动整理)
+
+*   [657258535/Catalog-generation](https://github.com/657258535/Catalog-generation) - HTML 文章目录生成 ｜ HTML article directory generation
+
+*   [ImageOptim/ImageOptim](https://github.com/ImageOptim/ImageOptim) - GUI image optimizer for Mac
+
+*   [SakuraVincent/MyHLS](https://github.com/SakuraVincent/MyHLS) - 视频床方案，视频切片上传到免费图床  二开于 https://github.com/sxyazi/free-hls
+
+*   [zhufacai/LawBook](https://github.com/zhufacai/LawBook) - 中国法律快查手册
+
+*   [rcy1314/VerseWebX](https://github.com/rcy1314/VerseWebX) - 基于Electron快速构建跨平台的桌面应用程序
+
+*   [adams549659584/go-proxy-bingai](https://github.com/adams549659584/go-proxy-bingai) - 用 Vue3 和 Go 搭建的微软 New Bing 演示站点，拥有一致的 UI 体验，支持 ChatGPT 提示词，国内可用。
+
+*   [chn-lee-yumi/MaterialSearch](https://github.com/chn-lee-yumi/MaterialSearch) - Semantic search. Search local photos and videos through natural language. AI语义搜索本地素材。以图搜图、查找本地素材、根据文字描述匹配画面、视频帧搜索、根据画面描述搜索视频。
+
+*   [watchakorn-18k/bot-news-it-discord](https://github.com/watchakorn-18k/bot-news-it-discord) - 📑 Bot updates news about IT and programming with Update every hour
+
+*   [aoaostar/legado](https://github.com/aoaostar/legado) - 阅读APP书源
+
+*   [Kirilllive/tuesday-js](https://github.com/Kirilllive/tuesday-js) - simple web-based, free and open-source visual novel editor that can be used in a web browser. It is written in JavaScript without using any third party libraries and thus does not require additional software installation. The engine uses standard HTML document elements such as div and img.
+
+*   [mydearcc/tools](https://github.com/mydearcc/tools) - free online tools, developer toolbox, web utilities: Minify CSS, Format JSON, Encrypt/Decrypt, Convert Formats, QR Code, Dev Docs,Webmaster Tools, Image Tools & more. For programmers, webmasters,designers.  | 免费在线工具箱集合
+
+*   [LeBronWilly/IG\_Photo\_Downloader\_Python](https://github.com/LeBronWilly/IG_Photo_Downloader_Python) - IG Photo Downloader
+
+*   [conoro/tiktok-rss-flat](https://github.com/conoro/tiktok-rss-flat) - Generate RSS feeds for TikTok accounts
+
+*   [suconghou/u2flutter](https://github.com/suconghou/u2flutter) - flutter app of youtube video proxy
+
+*   [WashingMachine94/Youtube-Downloader](https://github.com/WashingMachine94/Youtube-Downloader) - A free software to download Youtube videos or audio files. Ensures highest video and audio quality.
+
+*   [bazzsystems/Web-AI-Archive](https://github.com/bazzsystems/Web-AI-Archive) - AI Archive is a GitHub project dedicated to collecting and preserving data about artificial intelligence (AI) systems. Our mission is to create a comprehensive archive of AI systems and the data they generate, providing a valuable resource for researchers and developers.
+
+*   [qdlmcfresh/GuilloArchive](https://github.com/qdlmcfresh/GuilloArchive) - Archiving @GuillotineTea on Twitter
+
+*   [YangguangZhou/Cards](https://github.com/YangguangZhou/Cards) - 个人名片 Cards
+
+*   [gh0stkey/gh0stkey.github.io](https://github.com/gh0stkey/gh0stkey.github.io) - 个人博客 https://gh0st.cn 模版来自：https://github.com/heiswayi/the-plain 在原基础上增加了一些功能
+
+*   [dontpanic92/embedded-netease-music-player](https://github.com/dontpanic92/embedded-netease-music-player) - 网易云音乐外链播放器 - Embed a netease music player into your web page
+
+*   [xiaowansm5/Onlinemusic](https://github.com/xiaowansm5/Onlinemusic) - 在线音乐播放器
+
+*   [evan-gyy/XQFTools](https://github.com/evan-gyy/XQFTools) - XQF办公自动化小工具
+
+*   [moyuban/moyuban.github.io](https://github.com/moyuban/moyuban.github.io) - 摸鱼办
+
+*   [sangyuxiaowu/HackerScreenSaver](https://github.com/sangyuxiaowu/HackerScreenSaver) - .NET develops a screen saver. .NET 开发一款屏幕保护程序，Hacker Screen Saver 是一款 .NET 设计的屏幕保护程序，可以显示 HTML 页面，你可以将黑客模拟器的网页，摸鱼时需要的windows更新，或者爱心代码网页设置为你的 Windows 电脑屏保。
+
+*   [cf-pages/Telegraph-Image](https://github.com/cf-pages/Telegraph-Image) - Image Hosting solution, Flickr/imgur alternative, make it easy for users to share their images. Using Cloudflare Pages and Telegraph.
+
+*   [TakWolf/ark-pixel-font](https://github.com/TakWolf/ark-pixel-font) - 开源的泛中日韩像素字体，黑体风格
+
+*   [songquanpeng/go-file](https://github.com/songquanpeng/go-file) - 基于 Go 的文件分享工具，仅单可执行文件，开箱即用，内置图床和视频播放页面. File sharing tool based on Go.
+
+*   [ZutJoe/KoalaHackerNews](https://github.com/ZutJoe/KoalaHackerNews) - Koala hacker news 周报内容 每周二0点左右更新
+
+*   [LiuYuYang01/BookMark](https://github.com/LiuYuYang01/BookMark) - BookMark 是一款轻量、简洁雅观的书签导航项目 你可以将它设置为你的浏览器主页 告别杂乱无章的浏览器书签栏。相信你会喜欢它的! 🎉
 
 ## C++
 
