@@ -38,6 +38,8 @@
 
 ## TypeScript
 
+*   [koala73/worldmonitor](https://github.com/koala73/worldmonitor) - Real-time global intelligence dashboard — AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
+
 *   [pingdotgg/t3code](https://github.com/pingdotgg/t3code) -
 
 *   [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
@@ -297,6 +299,8 @@
 *   [oblador/react-native-vector-icons](https://github.com/oblador/react-native-vector-icons) - Customizable Icons for React Native with support for image source and full styling.
 
 *   [react-navigation/react-navigation](https://github.com/react-navigation/react-navigation) - Routing and navigation for React Native and Web apps
+
+*   [zuiidea/antd-admin](https://github.com/zuiidea/antd-admin) - An excellent front-end solution for enterprise applications built upon Ant Design and UmiJS
 
 *   [steelsojka/lodash-decorators](https://github.com/steelsojka/lodash-decorators) - A collection of decorators using lodash at it's core.
 
@@ -720,8 +724,6 @@
 
 *   [gaearon/react-document-title](https://github.com/gaearon/react-document-title) - Declarative, nested, stateful, isomorphic document.title for React
 
-*   [zuiidea/antd-admin](https://github.com/zuiidea/antd-admin) - An excellent front-end solution for enterprise applications built upon Ant Design and UmiJS
-
 *   [Tampermonkey/tampermonkey](https://github.com/Tampermonkey/tampermonkey) - Tampermonkey is the most popular userscript manager, with over 10 million users. It's available for Chrome, Microsoft Edge, Safari, Opera Next, and Firefox.
 
 *   [alitajs/umi-antd-pro](https://github.com/alitajs/umi-antd-pro) - 👻use umi conventional routing in Ant Design Pro 使用umi约定式路由多Tabs的Ant Design Pro（Antd Pro的实验项目）
@@ -785,8 +787,6 @@
 *   [facebookarchive/draft-js](https://github.com/facebookarchive/draft-js) - A React framework for building text editors.
 
 *   [reactjs/react-router-redux](https://github.com/reactjs/react-router-redux) - Ruthlessly simple bindings to keep react-router and redux in sync
-
-*   [andrewngu/sound-redux](https://github.com/andrewngu/sound-redux) - A Soundcloud client built with React / Redux
 
 ## Dart
 
