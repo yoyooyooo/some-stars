@@ -38,7 +38,7 @@
 
 ## TypeScript
 
-*   [webadderall/Recordly](https://github.com/webadderall/Recordly) - A free, open-source Screen Studio alternative that adds auto-zoom, cursor animations and more to your screen recordings.
+*   [webadderall/Recordly](https://github.com/webadderall/Recordly) - The open-source screen recorder and editor for creating polished walkthroughs, demos, tutorials, and product videos. Add auto-zoom, webcam overlays, cursor animations and more to your screen recordings. An alternative to Screen Studio.
 
 *   [jackwener/opencli](https://github.com/jackwener/opencli) - Make any website your CLI. A powerful, AI-native runtime for seamless browser automation and dynamic web data extraction.
 
