@@ -38,7 +38,7 @@
 
 ## TypeScript
 
-*   [webadderall/Recordly](https://github.com/webadderall/Recordly) - 🎬 Open-source screen recorder and editor for product videos, demos, and tutorials.
+*   [webadderall/Recordly](https://github.com/webadderall/Recordly) - The open-source screen recorder and editor for professional product videos, demos, and tutorials.
 
 *   [jackwener/opencli](https://github.com/jackwener/opencli) - Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Transform any website, Electron app, or local binary into a standardized command-line interface. Built for AI Agents to discover, learn, and execute tools seamlessly via a unified AGENT.md integration.
 
