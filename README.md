@@ -13,8 +13,8 @@
 
 ## Table of Contents
 
-*   [Swift](#swift)
 *   [TypeScript](#typescript)
+*   [Swift](#swift)
 *   [Rust](#rust)
 *   [C++](#c)
 *   [Python](#python)
@@ -35,17 +35,9 @@
 *   [Objective-C](#objective-c)
 *   [Vue](#vue)
 
-## Swift
-
-*   [tw93/MiaoYan](https://github.com/tw93/MiaoYan) - ⛷ Lightweight Markdown app to help you write great sentences.
-
-*   [PlayCover/PlayCover](https://github.com/PlayCover/PlayCover) - Community fork of PlayCover
-
-*   [shadowsocks/ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG) - Next Generation of ShadowsocksX
-
-*   [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
-
 ## TypeScript
+
+*   [google-labs-code/design.md](https://github.com/google-labs-code/design.md) - A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.
 
 *   [vercel-labs/wterm](https://github.com/vercel-labs/wterm) - A terminal emulator for the web
 
@@ -149,7 +141,7 @@
 
 *   [ha0z1/New-Bing-Anywhere](https://github.com/ha0z1/New-Bing-Anywhere) - 💬 New-Bing-Anywhere extension's source Always use Bing GPT-4
 
-*   [leaferjs/leafer-ui](https://github.com/leaferjs/leafer-ui) - An easy-to-use Canvas engine for effortless graphic interaction and editing — an infinite canvas engine for the AI era.
+*   [leaferjs/leafer-ui](https://github.com/leaferjs/leafer-ui) - An easy-to-use Canvas engine for effortless graphic interaction and editing — an infinite canvas engine for the AI era. 好用的 Canvas 引擎，轻松实现图形交互与编辑，AI 时代的无限画布引擎。
 
 *   [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
 
@@ -352,6 +344,16 @@
 *   [rt2zz/redux-persist](https://github.com/rt2zz/redux-persist) - persist and rehydrate a redux store
 
 *   [JedWatson/react-select](https://github.com/JedWatson/react-select) - The Select Component for React.js
+
+## Swift
+
+*   [tw93/MiaoYan](https://github.com/tw93/MiaoYan) - ⛷ Lightweight Markdown app to help you write great sentences.
+
+*   [PlayCover/PlayCover](https://github.com/PlayCover/PlayCover) - Community fork of PlayCover
+
+*   [shadowsocks/ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG) - Next Generation of ShadowsocksX
+
+*   [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
 
 ## Rust
 
@@ -740,8 +742,6 @@
 *   [voronianski/react-swipe](https://github.com/voronianski/react-swipe) - :left\_right\_arrow: Swipe.js as a React component
 
 *   [ytase/react-router-scroll](https://github.com/ytase/react-router-scroll) - React Router scroll management
-
-*   [react-component/form](https://github.com/react-component/form) - React High Order Form Component(web & react-native)
 
 ## miscellaneous
 
