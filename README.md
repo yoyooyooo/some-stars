@@ -13,9 +13,9 @@
 
 ## Table of Contents
 
+*   [Swift](#swift)
 *   [Rust](#rust)
 *   [TypeScript](#typescript)
-*   [Swift](#swift)
 *   [C++](#c)
 *   [Python](#python)
 *   [Shell](#shell)
@@ -34,6 +34,18 @@
 *   [Ruby](#ruby)
 *   [Objective-C](#objective-c)
 *   [Vue](#vue)
+
+## Swift
+
+*   [joewongjc/type4me](https://github.com/joewongjc/type4me) - MacOS语音输入法，实时识别、大模型文本优化、全本地存储
+
+*   [tw93/MiaoYan](https://github.com/tw93/MiaoYan) - ⛷ Lightweight Markdown app to help you write great sentences.
+
+*   [PlayCover/PlayCover](https://github.com/PlayCover/PlayCover) - Community fork of PlayCover
+
+*   [shadowsocks/ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG) - Next Generation of ShadowsocksX
+
+*   [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
 
 ## Rust
 
@@ -376,18 +388,6 @@
 *   [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 
 *   [react-dnd/react-dnd](https://github.com/react-dnd/react-dnd) - Drag and Drop for React
-
-*   [immutable-js/immutable-js](https://github.com/immutable-js/immutable-js) - Immutable persistent data collections for Javascript which increase efficiency and simplicity.
-
-## Swift
-
-*   [tw93/MiaoYan](https://github.com/tw93/MiaoYan) - ⛷ Lightweight Markdown app to help you write great sentences.
-
-*   [PlayCover/PlayCover](https://github.com/PlayCover/PlayCover) - Community fork of PlayCover
-
-*   [shadowsocks/ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG) - Next Generation of ShadowsocksX
-
-*   [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
 
 ## C++
 
