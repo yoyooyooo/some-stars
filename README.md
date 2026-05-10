@@ -390,6 +390,8 @@
 
 *   [123xiao/sex-agreement-app](https://github.com/123xiao/sex-agreement-app) - X行为同意协议系统
 
+*   [JefferyHcool/BiliNote](https://github.com/JefferyHcool/BiliNote) - AI 视频笔记生成工具 让 AI 为你的视频做笔记
+
 *   [StructuredLabs/supawald](https://github.com/StructuredLabs/supawald) - Supawald is a headless CMS for Supabase Storage. An out-of-the-box interface for managing files, images, and content in your Supabase Storage buckets with real-time updates and static site generation support. Manage files, set permissions, and connect directly to your Supabase project.
 
 *   [wind-liang/link-to-image](https://github.com/wind-liang/link-to-image) - 链接转二维码，适合微信公众号文章等
@@ -1822,8 +1824,6 @@
 
 *   [GJCoke/Async-FastAPI-MultiDB](https://github.com/GJCoke/Async-FastAPI-MultiDB) - 基于 FastAPI 的进阶示例项目。Built on a modern tech stack including FastAPI, Socket.IO, Celery, MinIO, SQLModel, and Beanie with layered architecture, delivering a high-performance, scalable, and secure asynchronous backend solution.
 
-*   [JefferyHcool/BiliNote](https://github.com/JefferyHcool/BiliNote) - AI 视频笔记生成工具 让 AI 为你的视频做笔记
-
 *   [cwjcw/xhs\_douyin\_content](https://github.com/cwjcw/xhs_douyin_content) - 自动抓取抖音和小红书创作者中心里的每条笔记/视频的播放，完播，点击，播放时长，点赞，分享，评论，收藏，主页访问，粉丝增量等互动数据
 
 *   [wkea/SSRAlist](https://github.com/wkea/SSRAlist) - 将Alist一键注册为WIndows服务
@@ -2572,7 +2572,7 @@
 
 *   [logonod/bookmark](https://github.com/logonod/bookmark) - bookmark - 我的书签 基于go实现的在线书签管理工具 支持爬虫、标签、全文检索
 
-*   [deweizhu/bookget](https://github.com/deweizhu/bookget) - bookget 数字古籍图书下载工具。我会在微信公众号 （@子平不肖生） 写一些禄命文化研究，有兴趣的朋友可以交流。      个人主页： https://zhudw.cn/
+*   [deweizhu/bookget](https://github.com/deweizhu/bookget) - bookget 数字古籍图书下载工具。
 
 *   [NullpointerW/AniCat](https://github.com/NullpointerW/AniCat) - One-click tool for automatically bangumi subscribing
 
@@ -2800,7 +2800,7 @@
 
 *   [DDG0808/aibal](https://github.com/DDG0808/aibal) - AiBal 是一款 菜单栏应用，为 AI 重度用户提供统一的多服务用量监控平台。
 
-*   [limecloud/lime](https://github.com/limecloud/lime) - 把灵感、写作、出图、改稿、沉淀放进同一个工作台，让创作从“想到”直接走到“可发布”
+*   [limecloud/lime](https://github.com/limecloud/lime) -   AI content workspace for Chinese creators: desktop writing, research, prompt   library, knowledge base, and multi-model workflows.
 
 *   [ox01024/cmirror](https://github.com/ox01024/cmirror) - 🇨🇳 Cmirror: 专为中国大陆开发者打造的一键换源工具 (A unified CLI for managing mirrors: Pip, NPM, Docker, Cargo, Apt, Go, Brew).
 
