@@ -13,6 +13,7 @@
 
 ## Table of Contents
 
+*   [Swift](#swift)
 *   [Python](#python)
 *   [TypeScript](#typescript)
 *   [Go](#go)
@@ -21,7 +22,6 @@
 *   [Java](#java)
 *   [Vue](#vue)
 *   [JavaScript](#javascript)
-*   [Swift](#swift)
 *   [C#](#c)
 *   [miscellaneous](#miscellaneous)
 *   [PHP](#php)
@@ -57,6 +57,72 @@
 *   [Dockerfile](#dockerfile)
 *   [Clojure](#clojure)
 *   [Metal](#metal)
+
+## Swift
+
+*   [nandieling/OmniPlay](https://github.com/nandieling/OmniPlay) - 览影：支持mac、win双平台的海报墙视频播放器
+
+*   [SaneHe/mac-tools](https://github.com/SaneHe/mac-tools) - 原生 macOS 文本动作工具，支持全局快捷键触发选中文本处理，提供 JSON 格式化、时间转换、MD5 与结果复制替换等能力。
+
+*   [aruis/ReelFlow](https://github.com/aruis/ReelFlow) - 一个为摄影师朋友打造，行在 macOS 上生成图片幻灯片视频的小工具
+
+*   [lilong7676/doubao-murmur](https://github.com/lilong7676/doubao-murmur) - 极简 macOS 语音输入法，< 500KB，利用豆包 Web 语音识别实现全局听写
+
+*   [lopleec/Zz](https://github.com/lopleec/Zz) - Zz is a lightweight macOS AI assistant that sees your screen and directly controls your desktop to automate any task.  Zz 是一款能看懂屏幕并直接代操作系统的 macOS 智能桌面助手，旨在为您全自动执行任何繁琐任务。
+
+*   [notwin/ProgressBar](https://github.com/notwin/ProgressBar) - 轻量级 macOS 原生任务管理应用，纯 SwiftUI 构建，支持多分区、跟进记录、日历同步、主题切换、iCloud 同步
+
+*   [snail007/macstate](https://github.com/snail007/macstate) - Lightweight macOS menu bar system monitor — CPU usage, CPU temperature, memory, fan speed, network speed. 轻量级 macOS 菜单栏系统监控 — CPU使用率、CPU温度、内存占用、风扇转速、网络速度。
+
+*   [maaoBit/wxl](https://github.com/maaoBit/wxl) - 一款使用 Liquid Glass UI 打造的优雅 macOS 剪贴板历史管理工具。WXL 让你能够轻松管理剪贴板历史、快速搜索、智能识别内容类型，并通过键盘快捷键高效操作。
+
+*   [lndyzwdxhs/mytimeline](https://github.com/lndyzwdxhs/mytimeline) - 一款现代简约的 macOS 桌面时间轴记录应用，帮助你快速记录和回顾工作事项。
+
+*   [cosZone/MoePeek](https://github.com/cosZone/MoePeek) - A lightweight macOS selection translator built with pure Swift 6, featuring on-device Apple Translate for privacy, only 5MB install size and stable ~50MB memory usage. 一款轻量级 macOS 划词翻译工具，纯 Swift 6 开发，设备端 Apple 翻译保护隐私，安装体积仅 5MB，后台运行内存稳定约 50MB
+
+*   [tzdjack/LiteStat](https://github.com/tzdjack/LiteStat) - 一个极简的macOS 菜单栏系统监视器
+
+*   [fxding/forks](https://github.com/fxding/forks) - A beautiful native macOS app to manage skills for 25+ AI coding agents including Cursor, Claude Code, and Windsurf.
+
+*   [dxylxy/MacBatteryMonitor-JingDian](https://github.com/dxylxy/MacBatteryMonitor-JingDian) - 静∙电  一款简洁 极低功耗的macOS电池及应用监看工具 (A minimalist battery monitor for macOS)
+
+*   [wzh4869/AppPorts](https://github.com/wzh4869/AppPorts) - 📦 A macOS utility to seamlessly migrate applications to external storage and reclaim local disk space.【一款 macOS 工具，无缝迁移应用到外部存储并自动建立链接，释放宝贵的本地空间】
+
+*   [PeixinLu/FocusLite](https://github.com/PeixinLu/FocusLite) - 轻量化macOS平台聚焦搜索替代工具，集成一键翻译、剪贴板历史、代码片段功能，兼容app搜索、数学表达式运算
+
+*   [PeixinLu/LoopReminder](https://github.com/PeixinLu/LoopReminder) - 简洁优雅的 macOS 循环提醒工具
+
+*   [coutureone/Moyu](https://github.com/coutureone/Moyu) - Mac摸鱼背单词
+
+*   [twotwoba/LaunchX](https://github.com/twotwoba/LaunchX) - 🚀 A modern,lightly and intelligent macOS launcher. 一个现代的、设计简洁且智能的 macOS 启动器
+
+*   [sanvibyfish/OwlUploader](https://github.com/sanvibyfish/OwlUploader) - macOS 桌面客户端，用于将文件上传到 Cloudflare R2，对开发者友好，简洁易用。
+
+*   [Turbo1123/turbometa-rayban-ai](https://github.com/Turbo1123/turbometa-rayban-ai) - World's First Full-Chinese Ray-Ban Meta AI Assistant - 全球首个全中文 Ray-Ban Meta 智能眼镜 AI 助手
+
+*   [iSoldLeo/PastScreen-CN](https://github.com/iSoldLeo/PastScreen-CN) - PastScreen-CN 是一款专注于效率的 macOS 截图工具，截图即刻进入剪贴板，几乎无等待。 它支持全局热键自定义、右键取消、原生截图音效和全中文界面，轻量、快速、不打扰。
+
+*   [tekintian/CopyPathFinder](https://github.com/tekintian/CopyPathFinder) - A lightweight macOS utility to copy file paths from Finder to clipboard with global shortcut。🚀 一键复制文件路径 | ⚡ 效率提升神器 | 🍎 Mac 原生体验
+
+*   [SkyPixel-Studio/Sparkify](https://github.com/SkyPixel-Studio/Sparkify) - A native macOS tool for personally AI prompt management and versioning
+
+*   [976431yang/TransparentSafari](https://github.com/976431yang/TransparentSafari) - Transparent web browser for MacOS, 摸鱼神器-半透明web浏览器
+
+*   [LunarBar-app/LunarBar](https://github.com/LunarBar-app/LunarBar) - A compact lunar calendar for your macOS menu bar.
+
+*   [nuance-dev/figura](https://github.com/nuance-dev/figura) - A free macOS native app to remove image backgrounds locally
+
+*   [even-cheng/ECSigner](https://github.com/even-cheng/ECSigner) - iOS签名Mac客户端，iPhone客户端，网页签名，一键签名，网络地址直签，多文件同步签，自动区分企业签名和个人证书，一键Assets.car生成、解压导出和替换,自动注册设备并更新下载签名证书和签名文件进行签名，支持动态库注入。支持最新iOS15，并向下兼容。
+
+*   [MarkEdit-app/MarkEdit](https://github.com/MarkEdit-app/MarkEdit) - Just like TextEdit on Mac but dedicated to Markdown.
+
+*   [mangerlahn/Latest](https://github.com/mangerlahn/Latest) - A small utility app for macOS that makes sure you know about all the latest updates to the apps you use.
+
+*   [shaishaicookie/fcpx-auto-captions](https://github.com/shaishaicookie/fcpx-auto-captions) - 🎬 Auto Captions for Final Cut Pro Powered by OpenAI's Whisper Model
+
+*   [hellokuls/macGPT](https://github.com/hellokuls/macGPT) - 一款ChatGPT for Mac原生客户端，一键下载！Develop a ChatGPT Mac client, not a web page integration.
+
+*   [Mnpn/Taberu](https://github.com/Mnpn/Taberu) - A simple RSS feed parser for macOS which lives in the menu bar
 
 ## Python
 
@@ -771,8 +837,6 @@
 *   [guangzhengli/wecom-notification-action](https://github.com/guangzhengli/wecom-notification-action) - 企业微信机器人消息发送，支持内容自定义，配置模版
 
 *   [guangzhengli/notification-action-template](https://github.com/guangzhengli/notification-action-template) - A github action template for notification action.
-
-*   [RWoxiN/AsoulNotificationPush](https://github.com/RWoxiN/AsoulNotificationPush) - A-SOUL 动态、直播状态获取，并推送到企业微信中。
 
 ## TypeScript
 
@@ -1964,7 +2028,7 @@
 
 ## JavaScript
 
-*   [valueriver/mindbase](https://github.com/valueriver/mindbase) - 自建笔记 · AI 协作 · Notion 风格
+*   [yanglongyun/mindbase](https://github.com/yanglongyun/mindbase) - 自建笔记 · AI 协作 · Notion 风格
 
 *   [wenyg/douyin-creator-tools](https://github.com/wenyg/douyin-creator-tools) - 阿里虾的抖音创作者工具
 
@@ -2349,70 +2413,6 @@
 *   [alyssaxuu/omni](https://github.com/alyssaxuu/omni) - The all-in-one tool to supercharge your productivity ⌨️
 
 *   [rcy1314/GeekBot](https://github.com/rcy1314/GeekBot) - 企业微信机器人主动推送获取信息脚本 | 每日自动推送天气、毒鸡汤、ONE图文、v2ex帖子 & more..
-
-## Swift
-
-*   [SaneHe/mac-tools](https://github.com/SaneHe/mac-tools) - 原生 macOS 文本动作工具，支持全局快捷键触发选中文本处理，提供 JSON 格式化、时间转换、MD5 与结果复制替换等能力。
-
-*   [aruis/ReelFlow](https://github.com/aruis/ReelFlow) - 一个为摄影师朋友打造，行在 macOS 上生成图片幻灯片视频的小工具
-
-*   [lilong7676/doubao-murmur](https://github.com/lilong7676/doubao-murmur) - 极简 macOS 语音输入法，< 500KB，利用豆包 Web 语音识别实现全局听写
-
-*   [lopleec/Zz](https://github.com/lopleec/Zz) - Zz is a lightweight macOS AI assistant that sees your screen and directly controls your desktop to automate any task.  Zz 是一款能看懂屏幕并直接代操作系统的 macOS 智能桌面助手，旨在为您全自动执行任何繁琐任务。
-
-*   [notwin/ProgressBar](https://github.com/notwin/ProgressBar) - 轻量级 macOS 原生任务管理应用，纯 SwiftUI 构建，支持多分区、跟进记录、日历同步、主题切换、iCloud 同步
-
-*   [snail007/macstate](https://github.com/snail007/macstate) - Lightweight macOS menu bar system monitor — CPU usage, CPU temperature, memory, fan speed, network speed. 轻量级 macOS 菜单栏系统监控 — CPU使用率、CPU温度、内存占用、风扇转速、网络速度。
-
-*   [maaoBit/wxl](https://github.com/maaoBit/wxl) - 一款使用 Liquid Glass UI 打造的优雅 macOS 剪贴板历史管理工具。WXL 让你能够轻松管理剪贴板历史、快速搜索、智能识别内容类型，并通过键盘快捷键高效操作。
-
-*   [lndyzwdxhs/mytimeline](https://github.com/lndyzwdxhs/mytimeline) - 一款现代简约的 macOS 桌面时间轴记录应用，帮助你快速记录和回顾工作事项。
-
-*   [cosZone/MoePeek](https://github.com/cosZone/MoePeek) - A lightweight macOS selection translator built with pure Swift 6, featuring on-device Apple Translate for privacy, only 5MB install size and stable ~50MB memory usage. 一款轻量级 macOS 划词翻译工具，纯 Swift 6 开发，设备端 Apple 翻译保护隐私，安装体积仅 5MB，后台运行内存稳定约 50MB
-
-*   [tzdjack/LiteStat](https://github.com/tzdjack/LiteStat) - 一个极简的macOS 菜单栏系统监视器
-
-*   [fxding/forks](https://github.com/fxding/forks) - A beautiful native macOS app to manage skills for 25+ AI coding agents including Cursor, Claude Code, and Windsurf.
-
-*   [dxylxy/MacBatteryMonitor-JingDian](https://github.com/dxylxy/MacBatteryMonitor-JingDian) - 静∙电  一款简洁 极低功耗的macOS电池及应用监看工具 (A minimalist battery monitor for macOS)
-
-*   [wzh4869/AppPorts](https://github.com/wzh4869/AppPorts) - 📦 A macOS utility to seamlessly migrate applications to external storage and reclaim local disk space.【一款 macOS 工具，无缝迁移应用到外部存储并自动建立链接，释放宝贵的本地空间】
-
-*   [PeixinLu/FocusLite](https://github.com/PeixinLu/FocusLite) - 轻量化macOS平台聚焦搜索替代工具，集成一键翻译、剪贴板历史、代码片段功能，兼容app搜索、数学表达式运算
-
-*   [PeixinLu/LoopReminder](https://github.com/PeixinLu/LoopReminder) - 简洁优雅的 macOS 循环提醒工具
-
-*   [coutureone/Moyu](https://github.com/coutureone/Moyu) - Mac摸鱼背单词
-
-*   [twotwoba/LaunchX](https://github.com/twotwoba/LaunchX) - 🚀 A modern,lightly and intelligent macOS launcher. 一个现代的、设计简洁且智能的 macOS 启动器
-
-*   [sanvibyfish/OwlUploader](https://github.com/sanvibyfish/OwlUploader) - macOS 桌面客户端，用于将文件上传到 Cloudflare R2，对开发者友好，简洁易用。
-
-*   [Turbo1123/turbometa-rayban-ai](https://github.com/Turbo1123/turbometa-rayban-ai) - World's First Full-Chinese Ray-Ban Meta AI Assistant - 全球首个全中文 Ray-Ban Meta 智能眼镜 AI 助手
-
-*   [iSoldLeo/PastScreen-CN](https://github.com/iSoldLeo/PastScreen-CN) - PastScreen-CN 是一款专注于效率的 macOS 截图工具，截图即刻进入剪贴板，几乎无等待。 它支持全局热键自定义、右键取消、原生截图音效和全中文界面，轻量、快速、不打扰。
-
-*   [tekintian/CopyPathFinder](https://github.com/tekintian/CopyPathFinder) - A lightweight macOS utility to copy file paths from Finder to clipboard with global shortcut。🚀 一键复制文件路径 | ⚡ 效率提升神器 | 🍎 Mac 原生体验
-
-*   [SkyPixel-Studio/Sparkify](https://github.com/SkyPixel-Studio/Sparkify) - A native macOS tool for personally AI prompt management and versioning
-
-*   [976431yang/TransparentSafari](https://github.com/976431yang/TransparentSafari) - Transparent web browser for MacOS, 摸鱼神器-半透明web浏览器
-
-*   [LunarBar-app/LunarBar](https://github.com/LunarBar-app/LunarBar) - A compact lunar calendar for your macOS menu bar.
-
-*   [nuance-dev/figura](https://github.com/nuance-dev/figura) - A free macOS native app to remove image backgrounds locally
-
-*   [even-cheng/ECSigner](https://github.com/even-cheng/ECSigner) - iOS签名Mac客户端，iPhone客户端，网页签名，一键签名，网络地址直签，多文件同步签，自动区分企业签名和个人证书，一键Assets.car生成、解压导出和替换,自动注册设备并更新下载签名证书和签名文件进行签名，支持动态库注入。支持最新iOS15，并向下兼容。
-
-*   [MarkEdit-app/MarkEdit](https://github.com/MarkEdit-app/MarkEdit) - Just like TextEdit on Mac but dedicated to Markdown.
-
-*   [mangerlahn/Latest](https://github.com/mangerlahn/Latest) - A small utility app for macOS that makes sure you know about all the latest updates to the apps you use.
-
-*   [shaishaicookie/fcpx-auto-captions](https://github.com/shaishaicookie/fcpx-auto-captions) - 🎬 Auto Captions for Final Cut Pro Powered by OpenAI's Whisper Model
-
-*   [hellokuls/macGPT](https://github.com/hellokuls/macGPT) - 一款ChatGPT for Mac原生客户端，一键下载！Develop a ChatGPT Mac client, not a web page integration.
-
-*   [Mnpn/Taberu](https://github.com/Mnpn/Taberu) - A simple RSS feed parser for macOS which lives in the menu bar
 
 ## C\#
 
