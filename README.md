@@ -60,7 +60,7 @@
 
 ## Swift
 
-*   [nandieling/OmniPlay](https://github.com/nandieling/OmniPlay) - 览影：支持mac、win双平台的海报墙视频播放器
+*   [nandieling/OmniPlay](https://github.com/nandieling/OmniPlay) - 觅影：支持mac、win双平台的海报墙视频播放器
 
 *   [SaneHe/mac-tools](https://github.com/SaneHe/mac-tools) - 原生 macOS 文本动作工具，支持全局快捷键触发选中文本处理，提供 JSON 格式化、时间转换、MD5 与结果复制替换等能力。
 
