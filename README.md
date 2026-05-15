@@ -80,7 +80,7 @@
 
 *   [jimieguang/dycast-overlay](https://github.com/jimieguang/dycast-overlay) - 一个基于抖音直播弹幕采集页扩展出来的桌面悬浮窗工具。
 
-*   [Wutpeach/FlowSelect](https://github.com/Wutpeach/FlowSelect) - 是一款面向设计师的素材收集悬浮窗工具，专为 After Effects 工作流程优化。
+*   [Wutpeach/Ameow](https://github.com/Wutpeach/Ameow) - 是一款面向设计师的素材收集悬浮窗工具，专为 After Effects 工作流程优化。
 
 *   [qfpqhyl/qfpqhyl.top](https://github.com/qfpqhyl/qfpqhyl.top) - 一个使用 React、Vite 和 Base UI 搭建的个人主页，展示最近文章与工具。「没错，正是这个页面，Github Action每天都会抓取最新的文章和仓库。」
 
