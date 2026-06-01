@@ -13,11 +13,11 @@
 
 ## Table of Contents
 
+*   [Swift](#swift)
 *   [TypeScript](#typescript)
 *   [Python](#python)
 *   [JavaScript](#javascript)
 *   [Rust](#rust)
-*   [Swift](#swift)
 *   [C++](#c)
 *   [Shell](#shell)
 *   [miscellaneous](#miscellaneous)
@@ -34,6 +34,20 @@
 *   [Ruby](#ruby)
 *   [Objective-C](#objective-c)
 *   [Vue](#vue)
+
+## Swift
+
+*   [stonerl/Thaw](https://github.com/stonerl/Thaw) - Menu bar manager for macOS 26
+
+*   [joewongjc/type4me](https://github.com/joewongjc/type4me) - MacOS语音输入法，实时识别、大模型文本优化、全本地存储
+
+*   [tw93/MiaoYan](https://github.com/tw93/MiaoYan) - ⛷ Lightweight Markdown app to help you write great sentences.
+
+*   [PlayCover/PlayCover](https://github.com/PlayCover/PlayCover) - Community fork of PlayCover
+
+*   [shadowsocks/ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG) - Next Generation of ShadowsocksX
+
+*   [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
 
 ## TypeScript
 
@@ -336,8 +350,6 @@
 *   [qinyang1980/create-react-antd-app](https://github.com/qinyang1980/create-react-antd-app) - (create react app + typescript + antd) without eject and without using Babel.
 
 *   [redux-observable/redux-observable](https://github.com/redux-observable/redux-observable) - RxJS middleware for action side effects in Redux using "Epics"
-
-*   [ReactiveX/rxjs](https://github.com/ReactiveX/rxjs) - A reactive programming library for JavaScript
 
 ## Python
 
@@ -710,18 +722,6 @@
 *   [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
 
 *   [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
-
-## Swift
-
-*   [joewongjc/type4me](https://github.com/joewongjc/type4me) - MacOS语音输入法，实时识别、大模型文本优化、全本地存储
-
-*   [tw93/MiaoYan](https://github.com/tw93/MiaoYan) - ⛷ Lightweight Markdown app to help you write great sentences.
-
-*   [PlayCover/PlayCover](https://github.com/PlayCover/PlayCover) - Community fork of PlayCover
-
-*   [shadowsocks/ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG) - Next Generation of ShadowsocksX
-
-*   [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
 
 ## C++
 
