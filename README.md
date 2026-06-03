@@ -32,6 +32,7 @@
 *   [Java](#java)
 *   [ABAP](#abap)
 *   [Ruby](#ruby)
+*   [MDX](#mdx)
 *   [Objective-C](#objective-c)
 *   [Vue](#vue)
 
@@ -248,8 +249,6 @@
 *   [vercel/swr](https://github.com/vercel/swr) - React Hooks for Data Fetching
 
 *   [remaxjs/remax](https://github.com/remaxjs/remax) - 使用真正的 React 构建跨平台小程序
-
-*   [graphql/graphql-js](https://github.com/graphql/graphql-js) - A reference implementation of GraphQL for JavaScript
 
 *   [alibaba/GGEditor](https://github.com/alibaba/GGEditor) - A visual graph editor based on G6 and React
 
@@ -864,6 +863,10 @@
 *   [JXA-Cookbook/JXA-Cookbook](https://github.com/JXA-Cookbook/JXA-Cookbook) - Cookbook for JavaScript for Automation in Mac OS X Yosemite
 
 *   [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
+
+## MDX
+
+*   [graphql/graphql-js](https://github.com/graphql/graphql-js) - A reference implementation of GraphQL for JavaScript
 
 ## Objective-C
 
