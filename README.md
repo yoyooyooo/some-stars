@@ -32,7 +32,6 @@
 *   [Java](#java)
 *   [ABAP](#abap)
 *   [Ruby](#ruby)
-*   [MDX](#mdx)
 *   [Objective-C](#objective-c)
 *   [Vue](#vue)
 
@@ -90,7 +89,7 @@
 
 *   [jamiepine/voicebox](https://github.com/jamiepine/voicebox) - The open-source AI voice studio. Clone, dictate, create.
 
-*   [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo; the one and only agent harness for complex codebases; the pickaxe for complex software engineering
+*   [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo; the one and only agent harness for complex codebases. the pickaxe for complex software engineering. For your Codex, for your OpenCode
 
 *   [earendil-works/pi](https://github.com/earendil-works/pi) - AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
 
@@ -249,6 +248,8 @@
 *   [vercel/swr](https://github.com/vercel/swr) - React Hooks for Data Fetching
 
 *   [remaxjs/remax](https://github.com/remaxjs/remax) - 使用真正的 React 构建跨平台小程序
+
+*   [graphql/graphql-js](https://github.com/graphql/graphql-js) - A reference implementation of GraphQL for JavaScript
 
 *   [alibaba/GGEditor](https://github.com/alibaba/GGEditor) - A visual graph editor based on G6 and React
 
@@ -863,10 +864,6 @@
 *   [JXA-Cookbook/JXA-Cookbook](https://github.com/JXA-Cookbook/JXA-Cookbook) - Cookbook for JavaScript for Automation in Mac OS X Yosemite
 
 *   [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
-
-## MDX
-
-*   [graphql/graphql-js](https://github.com/graphql/graphql-js) - A reference implementation of GraphQL for JavaScript
 
 ## Objective-C
 
