@@ -13,13 +13,14 @@
 
 ## Table of Contents
 
+*   [C](#c)
 *   [JavaScript](#javascript)
 *   [Shell](#shell)
 *   [Swift](#swift)
 *   [TypeScript](#typescript)
 *   [Python](#python)
 *   [Rust](#rust)
-*   [C++](#c)
+*   [C++](#c-1)
 *   [miscellaneous](#miscellaneous)
 *   [Go](#go)
 *   [Kotlin](#kotlin)
@@ -34,6 +35,10 @@
 *   [Ruby](#ruby)
 *   [Objective-C](#objective-c)
 *   [Vue](#vue)
+
+## C
+
+*   [tripplyons/pokeemerald-wasm](https://github.com/tripplyons/pokeemerald-wasm) - Pokemon Emerald in WebAssembly
 
 ## JavaScript
 
@@ -630,8 +635,6 @@
 *   [ReactiveX/rxjs-tslint](https://github.com/ReactiveX/rxjs-tslint) - TSLint rules targeting RxJS
 
 *   [egeozcan/ppipe](https://github.com/egeozcan/ppipe) - pipes values through functions, an alternative to using the proposed pipe operator ( |> ) for ES
-
-*   [qinyang1980/create-react-antd-app](https://github.com/qinyang1980/create-react-antd-app) - (create react app + typescript + antd) without eject and without using Babel.
 
 ## Python
 
